@@ -109,40 +109,38 @@
             "time_filter": "day",
             "fetch_limit": 10,
             "min_score": 200
-          },
-          {
+                 },
+        {
             "subreddit": "economy",
             "enabled": true,
             "sort": "top",
             "time_filter": "day",
             "fetch_limit": 10,
             "min_score": 30
-          }
-        ],
-        "users": [],
-        "fetch_comments": 10
-      },
-        "users": [],
-        "fetch_comments": 10
-      },
-      ],
-      "users": [],
-      "fetch_comments": 10
+        }
+    ],
+    "users": [],
+    "fetch_comments": 10,
+    
+    "notification": {
+        "telegram": {
+            "enabled": true,
+            "bot_token_env": "TELEGRAM_BOT_TOKEN",
+            "chat_id": "6318400940"
+        },
+        "filtering": {
+            "ai_score_threshold": 8.0,
+            "time_window_hours": 24
+        },
+        "webhook": {
+            "enabled": false
+        }
     },
-       "notification": {
-      "telegram": {
-        "enabled": true,
-        "bot_token_env": "TELEGRAM_BOT_TOKEN",
-        "chat_id": "6318400940"
-      },
-      "filtering": {
-        "ai_score_threshold": 8.0,
-        "time_window_hours": 24
-      },
-      "webhook": {
-        "enabled": false
-      }
-    },
+    
+    "layout": "collapsible",
+    "fallback_layout": "markdown",
+    "languages": [
+        "zh"
     "layout": "collapsible",
     "fallback_layout": "markdown",
     "languages": [
