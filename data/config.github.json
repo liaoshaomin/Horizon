@@ -122,12 +122,14 @@
     "users": [],
     "fetch_comments": 10,
     
-    "notification": {
-        "telegram": {
-            "enabled": true,
-            "bot_token_env": "TELEGRAM_BOT_TOKEN",
-            "chat_id": "6318400940"
-        },
+   "notification": {
+    "telegram": {
+        "enabled": true,
+        "bot_token_env": "TELEGRAM_BOT_TOKEN",
+        "chat_id_env": "TELEGRAM_CHAT_ID" 
+    },
+    ...
+}
         "filtering": {
             "ai_score_threshold": 8.0,
             "time_window_hours": 24
