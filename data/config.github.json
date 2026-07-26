@@ -136,8 +136,7 @@
             "enabled": false
         }
     },
-    
-    "layout": "collapsible",
+        "layout": "collapsible",
     "fallback_layout": "markdown",
     "languages": [
         "zh"
