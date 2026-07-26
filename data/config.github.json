@@ -129,23 +129,19 @@
       "users": [],
       "fetch_comments": 10
     },
-    "telegram": {
-      "enabled": true,
-      "channels": [
-        {
-          "channel": "zaihuapd",
-          "enabled": true,
-          "fetch_limit": 20
-        }
-      ]
-    }
-  },
+    "notification": {
+  "telegram": {
+    "enabled": true,
+    "bot_token": "TELEGRAM_BOT_TOKEN",
+    "chat_id": "6318400940"
+  }
+}
   "filtering": {
     "ai_score_threshold": 8.0,
     "time_window_hours": 24
   },
   "webhook": {
-    "enabled": true,
+    "enabled": false,
     "url_env": "HORIZON_WEBHOOK_URL",
     "delivery": "summary_and_items",
     "overview_position": "last",
