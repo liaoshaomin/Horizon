@@ -130,12 +130,12 @@
             "chat_id_env": "TELEGRAM_CHAT_ID"  
         },                                     
                                                 
-        "filtering": {                       
-            "ai_score_threshold": 8.0,
-            "time_window_hours": 24
-        },
-        "webhook": {
-            "enabled": false
-        }
+       "filtering": {
+        "ai_score_threshold": 8.0,
+        "time_window_hours": 24
+    },     
+    "webhook": {
+        "enabled": false
+    }
     }
 }
