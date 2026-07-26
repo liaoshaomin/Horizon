@@ -45,51 +45,86 @@
       "fetch_top_stories": 30,
       "min_score": 150
     },
-    "rss": [
-      {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
-        "enabled": true,
-        "category": "ai-tools"
-      },
-      {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-        "enabled": true,
-        "category": "github-trending"
-      },
-      {
-        "name": "Semianalysis",
-        "url": "https://newsletter.semianalysis.com/feed",
-        "enabled": true,
-        "category": "semiconductors"
-      },
-      {
-        "name": "LWN.net",
-        "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": true,
-        "category": "linux-kernel"
-      }
-    ],
-    "reddit": {
-      "enabled": true,
-      "subreddits": [
+     "rss": [
         {
-          "subreddit": "MachineLearning",
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/atom/everything/",
           "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 60
+          "category": "ai-tools"
         },
         {
-          "subreddit": "LocalLLaMA",
+          "name": "GitHub Trending - Daily",
+          "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
           "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 60
+          "category": "github-trending"
+        },
+        {
+          "name": "Semianalysis",
+          "url": "https://newsletter.semianalysis.com/feed/",
+          "enabled": true,
+          "category": "semiconductors"
+        },
+        {
+          "name": "LWN.net",
+          "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
+          "enabled": true,
+          "category": "linux-kernel"
+        },
+        {
+          "name": "Bloomberg Markets",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "enabled": true,
+          "category": "finance"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+          "enabled": true,
+          "category": "finance"
         }
+      ],
+                    "reddit": {
+        "enabled": true,
+        "subreddits": [
+          {
+            "subreddit": "investing",
+            "enabled": true,
+            "sort": "hot",
+            "time_filter": "day",
+            "fetch_limit": 10,
+            "min_score": 50
+          },
+          {
+            "subreddit": "stocks",
+            "enabled": true,
+            "sort": "hot",
+            "time_filter": "day",
+            "fetch_limit": 10,
+            "min_score": 50
+          },
+          {
+            "subreddit": "wallstreetbets",
+            "enabled": true,
+            "sort": "hot",
+            "time_filter": "day",
+            "fetch_limit": 10,
+            "min_score": 200
+          },
+          {
+            "subreddit": "economy",
+            "enabled": true,
+            "sort": "top",
+            "time_filter": "day",
+            "fetch_limit": 10,
+            "min_score": 30
+          }
+        ],
+        "users": [],
+        "fetch_comments": 10
+      },
+        "users": [],
+        "fetch_comments": 10
+      },
       ],
       "users": [],
       "fetch_comments": 10
