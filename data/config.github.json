@@ -104,7 +104,7 @@
                 },
                 {
                     "subreddit": "wallstreetbets",
-                    "enabled": true,
+                    "enabled": "true",
                     "sort": "hot",
                     "time_filter": "day",
                     "fetch_limit": 10,
@@ -123,15 +123,15 @@
     },
     "users": [],
     "fetch_comments": 10,
+    "filtering": {
+        "ai_score_threshold": 8.0,
+        "time_window_hours": 24
+    },
     "notification": {
         "telegram": {
             "enabled": true,
             "bot_token_env": "TELEGRAM_BOT_TOKEN",
             "chat_id_env": "TELEGRAM_CHAT_ID"
-        },
-        "filtering": {
-            "ai_score_threshold": 8.0,
-            "time_window_hours": 24
         },
         "webhook": {
             "enabled": false
