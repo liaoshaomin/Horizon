@@ -5,14 +5,33 @@ date: 2026-07-27
 lang: en
 ---
 
-> Analyzed 49 items, but none met the importance threshold.
+> From 60 items, 2 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [US citizen charged after GrapheneOS phone wipes during airport search](#item-1) ⭐️ 8.0/10
+2. [Kill The Cookie Banner](#item-2) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) ⭐️ 8.0/10
+
+A US citizen has been charged with destruction of evidence after using GrapheneOS&\#x27;s duress PIN feature to wipe his smartphone during a border search by customs officials.
+
+hackernews · eecc · Jul 26, 22:21 · [Discussion](https://news.ycombinator.com/item?id=49063022)
+
+**Tags**: `#Privacy`, `#Security`, `#GrapheneOS`, `#Cyberlaw`, `#Mobile Security`
+
+---
+
+<a id="item-2"></a>
+## [Kill The Cookie Banner](https://killthecookiebanner.eu/) ⭐️ 8.0/10
+
+This campaign highlights an EU Commission proposal to eliminate repetitive cookie consent banners by allowing users to set standardized privacy preferences directly in their browsers.
+
+hackernews · rapnie · Jul 26, 11:53 · [Discussion](https://news.ycombinator.com/item?id=49057175)
+
+**Tags**: `#Privacy`, `#Web Development`, `#EU Regulation`, `#User Experience`
+
+---
