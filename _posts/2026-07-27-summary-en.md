@@ -5,21 +5,33 @@ date: 2026-07-27
 lang: en
 ---
 
-> From 59 items, 1 important content pieces were selected
+> From 65 items, 2 important content pieces were selected
 
 ---
 
-1. [PGSimCity - How PostgreSQL Works](#item-1) ⭐️ 8.0/10
+1. [Kimi-K3 on HuggingFace](#item-1) ⭐️ 9.0/10
+2. [vllm-project/vllm released v0.26.0](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) ⭐️ 8.0/10
+## [Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3) ⭐️ 9.0/10
 
-PGSimCity is an interactive visual simulation that illustrates the inner architecture and background processes of PostgreSQL like a city.
+Moonshot AI has released its Kimi-K3 model on HuggingFace, sparking widespread discussion around the cost, hardware demands, and licensing of massive open-weights language models.
 
-hackernews · jonbaer · Jul 27, 00:19 · [Discussion](https://news.ycombinator.com/item?id=49063754)
+hackernews · nateb2022 · Jul 27, 06:18 · [Discussion](https://news.ycombinator.com/item?id=49065752)
 
-**Tags**: `#PostgreSQL`, `#Databases`, `#Data Visualization`, `#Software Architecture`
+**Tags**: `#Artificial Intelligence`, `#Large Language Models`, `#Open Weights`, `#Machine Learning`, `#Moonshot AI`
+
+---
+
+<a id="item-2"></a>
+## [vllm-project/vllm released v0.26.0](https://github.com/vllm-project/vllm/releases/tag/v0.26.0) ⭐️ 8.0/10
+
+vLLM v0.26.0 adds support for the Inkling model family, key performance optimizations for DeepSeek-V4 across GPUs, and fp32 generation heads.
+
+github · khluu · Jul 27, 01:06
+
+**Tags**: `#vLLM`, `#LLM Inference`, `#DeepSeek`, `#AI Infrastructure`
 
 ---
