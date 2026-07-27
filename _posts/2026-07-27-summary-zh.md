@@ -5,33 +5,33 @@ date: 2026-07-27
 lang: zh
 ---
 
-> 从 65 条内容中筛选出 2 条重要资讯。
+> 从 66 条内容中筛选出 2 条重要资讯。
 
 ---
 
-1. [Kimi-K3 on HuggingFace](#item-1) ⭐️ 9.0/10
-2. [vllm-project/vllm released v0.26.0](#item-2) ⭐️ 8.0/10
+1. [Our position on open-weights models](#item-1) ⭐️ 8.0/10
+2. [Paged Out \#9 \[pdf\]](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3) ⭐️ 9.0/10
+## [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) ⭐️ 8.0/10
 
-Moonshot AI has released its Kimi-K3 model on HuggingFace, sparking widespread discussion around the cost, hardware demands, and licensing of massive open-weights language models.
+Anthropic clarifies its position on open-weights AI models, arguing against outright bans while advocating for mandatory safety testing and strict hardware export controls.
 
-hackernews · nateb2022 · 7月27日 06:18 · [社区讨论](https://news.ycombinator.com/item?id=49065752)
+hackernews · surprisetalk · 7月27日 22:03 · [社区讨论](https://news.ycombinator.com/item?id=49076057)
 
-**标签**: `#Artificial Intelligence`, `#Large Language Models`, `#Open Weights`, `#Machine Learning`, `#Moonshot AI`
+**标签**: `#AI Policy`, `#Open Source AI`, `#AI Safety`, `#Anthropic`, `#Regulation`
 
 ---
 
 <a id="item-2"></a>
-## [vllm-project/vllm released v0.26.0](https://github.com/vllm-project/vllm/releases/tag/v0.26.0) ⭐️ 8.0/10
+## [Paged Out \#9 \[pdf\]](https://pagedout.institute/download/PagedOut_009.pdf) ⭐️ 8.0/10
 
-vLLM v0.26.0 adds support for the Inkling model family, key performance optimizations for DeepSeek-V4 across GPUs, and fp32 generation heads.
+Paged Out\! Issue \#9 has been released, offering a curated collection of concise, deeply technical articles covering topics from low-level C programming to subpixel rendering and Wang&\#x27;s computable tilings.
 
-github · khluu · 7月27日 01:06
+hackernews · laurensr · 7月27日 14:22 · [社区讨论](https://news.ycombinator.com/item?id=49070138)
 
-**标签**: `#vLLM`, `#LLM Inference`, `#DeepSeek`, `#AI Infrastructure`
+**标签**: `#low-level programming`, `#security`, `#hacking`, `#computer science`, `#zines`
 
 ---
