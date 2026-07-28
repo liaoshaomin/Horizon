@@ -5,33 +5,33 @@ date: 2026-07-28
 lang: zh
 ---
 
-> 从 65 条内容中筛选出 2 条重要资讯。
+> 从 66 条内容中筛选出 2 条重要资讯。
 
 ---
 
-1. [Our position on open-weights models](#item-1) ⭐️ 8.0/10
-2. [Benchmarking Opus 5 on SlopCodeBench](#item-2) ⭐️ 8.0/10
+1. [New HIV vaccine shows unprecedented success in preclinical study](#item-1) ⭐️ 8.0/10
+2. [Kimi Linear: An Expressive, Efficient Attention Architecture](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) ⭐️ 8.0/10
+## [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) ⭐️ 8.0/10
 
-Anthropic outlines its policy position on open-weights AI models, addressing the trade-offs between open source innovation, national security, and potential safety risks.
+A novel sequential HIV vaccine strategy designed to guide immune system development showed promising preclinical success in rhesus macaques and has advanced to Phase I human trials.
 
-hackernews · surprisetalk · 7月27日 22:03 · [社区讨论](https://news.ycombinator.com/item?id=49076057)
+hackernews · codebyaditya · 7月28日 13:12 · [社区讨论](https://news.ycombinator.com/item?id=49083314)
 
-**标签**: `#AI Policy`, `#Open Source AI`, `#Anthropic`, `#AI Safety`
+**标签**: `#Immunology`, `#Vaccines`, `#HIV Research`, `#Biotechnology`, `#Medicine`
 
 ---
 
 <a id="item-2"></a>
-## [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) ⭐️ 8.0/10
+## [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692) ⭐️ 8.0/10
 
-A benchmark evaluation assessing how coding agents manage code complexity and technical debt over iterative development tasks using SlopCodeBench.
+Kimi Linear introduces an efficient and expressive linear attention architecture for large language models, releasing open-source implementations and pre-trained checkpoints.
 
-hackernews · dhorthy · 7月27日 22:37 · [社区讨论](https://news.ycombinator.com/item?id=49076391)
+hackernews · ronfriedhaber · 7月28日 10:52 · [社区讨论](https://news.ycombinator.com/item?id=49082022)
 
-**标签**: `#AI`, `#LLMs`, `#Software Engineering`, `#Benchmarks`, `#Coding Agents`
+**标签**: `#Machine Learning`, `#Attention Mechanism`, `#LLMs`, `#AI Research`, `#Open Source`
 
 ---
