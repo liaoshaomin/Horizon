@@ -5,45 +5,45 @@ date: 2026-07-28
 lang: zh
 ---
 
-> 从 66 条内容中筛选出 3 条重要资讯。
+> 从 69 条内容中筛选出 3 条重要资讯。
 
 ---
 
-1. [You Could Have Come Up with Kimi Delta Attention](#item-1) ⭐️ 8.0/10
-2. [New HIV vaccine shows unprecedented success in preclinical study](#item-2) ⭐️ 8.0/10
-3. [Kimi Linear: An Expressive, Efficient Attention Architecture](#item-3) ⭐️ 8.0/10
+1. [OpenAI just open-sourced Codex Security](#item-1) ⭐️ 8.0/10
+2. [Kimi K3 Architecture Overview and Notes](#item-2) ⭐️ 8.0/10
+3. [moonshotai/Kimi-K3](#item-3) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [You Could Have Come Up with Kimi Delta Attention](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention) ⭐️ 8.0/10
+## [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security) ⭐️ 8.0/10
 
-This article breaks down the mathematical foundations and architecture of Kimi Delta Attention using bra-ket notation to make the underlying mechanics intuitive.
+OpenAI has open-sourced Codex Security, a CLI tool designed to perform automated repository security scans using AI.
 
-hackernews · AnhTho\_FR · 7月28日 16:02 · [社区讨论](https://news.ycombinator.com/item?id=49085909)
+hackernews · bakigul · 7月28日 20:52 · [社区讨论](https://news.ycombinator.com/item?id=49089755)
 
-**标签**: `#Machine Learning`, `#Transformers`, `#Attention Mechanisms`, `#Deep Learning`, `#Applied Mathematics`
+**标签**: `#OpenAI`, `#Cybersecurity`, `#Open Source`, `#LLM`, `#DevSecOps`
 
 ---
 
 <a id="item-2"></a>
-## [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) ⭐️ 8.0/10
+## [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html) ⭐️ 8.0/10
 
-A new sequential HIV vaccine strategy demonstrated unprecedented success in eliciting broadly neutralizing antibodies in preclinical trials on non-human primates.
+This article provides a detailed breakdown of the Kimi K3 LLM architecture, highlighting novel engineering choices such as completely replacing Rotary Position Embeddings \(RoPE\) with No Positional Embeddings \(NoPE\).
 
-hackernews · codebyaditya · 7月28日 13:12 · [社区讨论](https://news.ycombinator.com/item?id=49083314)
+hackernews · ModelForge · 7月28日 15:48 · [社区讨论](https://news.ycombinator.com/item?id=49085698)
 
-**标签**: `#Biotechnology`, `#Vaccines`, `#HIV Research`, `#Immunology`, `#Medicine`
+**标签**: `#LLM Architecture`, `#Machine Learning`, `#Deep Learning`, `#Transformers`, `#Artificial Intelligence`
 
 ---
 
 <a id="item-3"></a>
-## [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692) ⭐️ 8.0/10
+## [moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything) ⭐️ 8.0/10
 
-The paper introduces Kimi Linear, a novel and efficient linear attention architecture designed to reduce computational complexity while maintaining high expressiveness in large language models.
+Moonshot AI has officially released the open weights for its 2.8 trillion parameter Kimi-K3 model under a modified license requiring attribution for large commercial entities.
 
-hackernews · ronfriedhaber · 7月28日 10:52 · [社区讨论](https://news.ycombinator.com/item?id=49082022)
+rss · Simon Willison · 7月27日 23:39
 
-**标签**: `#Machine Learning`, `#LLM Architecture`, `#Linear Attention`, `#Artificial Intelligence`
+**标签**: `#Artificial Intelligence`, `#Large Language Models`, `#Open Source`, `#Machine Learning`
 
 ---
