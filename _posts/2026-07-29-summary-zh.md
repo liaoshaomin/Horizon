@@ -5,21 +5,14 @@ date: 2026-07-29
 lang: zh
 ---
 
-> 从 76 条内容中筛选出 1 条重要资讯。
+> 已分析 70 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [Codex Security](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [Codex Security](https://github.com/openai/codex-security) ⭐️ 8.0/10
-
-OpenAI has released Codex Security, an open-source CLI tool that uses AI models to scan code repositories for cybersecurity vulnerabilities.
-
-hackernews · bakigul · 7月28日 20:52 · [社区讨论](https://news.ycombinator.com/item?id=49089755)
-
-**标签**: `#OpenAI`, `#Cybersecurity`, `#Code Security`, `#AI Tools`, `#Open Source`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
