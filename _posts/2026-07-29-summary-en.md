@@ -5,33 +5,33 @@ date: 2026-07-29
 lang: en
 ---
 
-> From 68 items, 2 important content pieces were selected
+> From 73 items, 2 important content pieces were selected
 
 ---
 
 1. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](#item-1) ⭐️ 8.0/10
-2. [Handbook.md shows that long policy documents do not reliably govern agents](#item-2) ⭐️ 8.0/10
+2. [Superlogical](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) ⭐️ 8.0/10
 
-TurboFieldfare is an open-source Swift and Metal inference engine that runs Gemma 4 26B in only 2 GB of RAM on M-series Macs by streaming routed experts from SSD.
+TurboFieldfare is an open-source Swift and Metal inference engine that streams MoE experts from SSD to run Gemma 4 26B in 2 GB of RAM on Apple Silicon.
 
 hackernews · gitpusher42 · Jul 29, 15:05 · [Discussion](https://news.ycombinator.com/item?id=49098510)
 
-**Tags**: `#Machine Learning`, `#LLM Inference`, `#Apple Silicon`, `#Open Source`, `#Swift`
+**Tags**: `#Machine Learning`, `#On-Device AI`, `#Apple Silicon`, `#Open Source`, `#LLM Inference`
 
 ---
 
 <a id="item-2"></a>
-## [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) ⭐️ 8.0/10
+## [Superlogical](https://www.superlogical.com/) ⭐️ 8.0/10
 
-A research benchmark demonstrates that lengthy policy documents fail to reliably control AI agent behavior, sparkinging insightful community discussion on context degradation and instruction-following limits.
+Mitchell Hashimoto announces Superlogical, a new venture building terminal-centric application architectures and interfaces on top of the open-source libghostty library.
 
-hackernews · spIrr · Jul 29, 13:01 · [Discussion](https://news.ycombinator.com/item?id=49096969)
+hackernews · yan · Jul 29, 15:41 · [Discussion](https://news.ycombinator.com/item?id=49098965)
 
-**Tags**: `#AI Agents`, `#Large Language Models`, `#Context Window`, `#AI Governance`
+**Tags**: `#Terminal`, `#Open Source`, `#Software Architecture`, `#Developer Tools`
 
 ---
