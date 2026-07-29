@@ -5,7 +5,7 @@ date: 2026-07-29
 lang: en
 ---
 
-> From 75 items, 1 important content pieces were selected
+> From 76 items, 1 important content pieces were selected
 
 ---
 
@@ -16,10 +16,10 @@ lang: en
 <a id="item-1"></a>
 ## [Codex Security](https://github.com/openai/codex-security) ⭐️ 8.0/10
 
-OpenAI has open-sourced Codex Security, a CLI tool that uses LLMs to scan code repositories for cybersecurity vulnerabilities.
+OpenAI has released Codex Security, an open-source CLI tool that uses AI models to scan code repositories for cybersecurity vulnerabilities.
 
 hackernews · bakigul · Jul 28, 20:52 · [Discussion](https://news.ycombinator.com/item?id=49089755)
 
-**Tags**: `#Cybersecurity`, `#OpenAI`, `#LLM`, `#Developer Tools`, `#Code Analysis`
+**Tags**: `#OpenAI`, `#Cybersecurity`, `#Code Security`, `#AI Tools`, `#Open Source`
 
 ---
