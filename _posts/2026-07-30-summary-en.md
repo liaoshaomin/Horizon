@@ -5,14 +5,21 @@ date: 2026-07-30
 lang: en
 ---
 
-> Analyzed 63 items, but none met the importance threshold.
+> From 69 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Gemini Robotics 2 brings whole body intelligence to robots](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) ⭐️ 8.0/10
+
+Google DeepMind announced Gemini Robotics 2, applying Gemini foundation models to achieve whole-body intelligence and multimodal control in robotic systems.
+
+hackernews · ai2027 · Jul 30, 15:15 · [Discussion](https://news.ycombinator.com/item?id=49111237)
+
+**Tags**: `#Robotics`, `#Artificial Intelligence`, `#DeepMind`, `#Gemini`, `#Machine Learning`
+
+---
