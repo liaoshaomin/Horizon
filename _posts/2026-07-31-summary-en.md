@@ -5,73 +5,57 @@ date: 2026-07-31
 lang: en
 ---
 
-> From 78 items, 5 important content pieces were selected
+> From 77 items, 4 important content pieces were selected
 
 ---
 
-1. [Stacked PRs are now live on GitHub](#item-1) ⭐️ 9.0/10
-2. [DeepSeek-V4-Flash Update](#item-2) ⭐️ 8.0/10
-3. [Fake Authors and AI-Generated Papers Accepted as Oral Presentations](#item-3) ⭐️ 8.0/10
-4. [Gemini Robotics 2 brings whole body intelligence to robots](#item-4) ⭐️ 8.0/10
-5. [Read this before you buy that TV streaming stick](#item-5) ⭐️ 8.0/10
+1. [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](#item-1) ⭐️ 8.0/10
+2. [The session you cannot take with you](#item-2) ⭐️ 8.0/10
+3. [JEP 401: Value Objects \(Preview\) merged to OpenJDK master](#item-3) ⭐️ 8.0/10
+4. [Stacked PRs are now live on GitHub](#item-4) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) ⭐️ 9.0/10
+## [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga) ⭐️ 8.0/10
 
-GitHub has officially launched stacked pull requests in public preview, enabling developers to chain dependent pull requests and manage complex feature code reviews more easily via CLI and web UI.
+This content analyzes DeepSeek V4 Flash&\#x27;s performance, pricing, and intelligence benchmarks, highlighting its high cost-efficiency and local run capabilities.
 
-hackernews · tomzorz · Jul 30, 16:26 · [Discussion](https://news.ycombinator.com/item?id=49112232)
+hackernews · theanonymousone · Jul 31, 07:59 · [Discussion](https://news.ycombinator.com/item?id=49120299)
 
-**Tags**: `#GitHub`, `#Git`, `#Developer Tools`, `#Software Engineering`, `#Code Review`
+**Tags**: `#AI`, `#LLMs`, `#DeepSeek`, `#Machine Learning`, `#Benchmarks`
 
 ---
 
 <a id="item-2"></a>
-## [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/) ⭐️ 8.0/10
+## [The session you cannot take with you](https://earendil.com/posts/session-portability/) ⭐️ 8.0/10
 
-DeepSeek released an update to its V4-Flash model, triggering enthusiastic community discussion regarding its extreme cost-effectiveness and practical capabilities in daily software development and agent workflows.
+The article and discussion explore the growing issue of vendor lock-in and lack of session portability in proprietary AI/LLM services.
 
-hackernews · dnhkng · Jul 31, 06:08 · [Discussion](https://news.ycombinator.com/item?id=49119559)
+hackernews · apitman · Jul 31, 03:47 · [Discussion](https://news.ycombinator.com/item?id=49118781)
 
-**Tags**: `#AI`, `#LLM`, `#DeepSeek`, `#Developer Tools`, `#Machine Learning`
+**Tags**: `#AI`, `#LLMs`, `#Vendor Lock-in`, `#Data Ownership`, `#System Architecture`
 
 ---
 
 <a id="item-3"></a>
-## [Fake Authors and AI-Generated Papers Accepted as Oral Presentations](https://geospatialml.com/posts/reviewing-ai-slop/) ⭐️ 8.0/10
+## [JEP 401: Value Objects \(Preview\) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) ⭐️ 8.0/10
 
-An AI research reviewer revealed that two papers they flagged for featuring fake authors and AI-generated text were nevertheless accepted as top-tier oral conference presentations. This highlights a severe breakdown in peer review where fraudulent submissions bypass detection. This incident underscores systemic vulnerabilities in academic publishing, where AI-generated low-quality papers can erode scientific integrity and crowd out legitimate research. It reflects a growing crisis in computer science conferences caused by skyrocketing submission numbers and overburdened reviewers. Despite explicit warnings raised by the reviewer during the evaluation phase, both papers cleared the committee to earn coveted oral slots. Mandatory review quotas, which require submitting authors to review four to five other papers, may be fueling under-qualified and rushed peer evaluations.
+JEP 401: Value Objects \(Preview\) has been merged into OpenJDK master, bringing identity-less value types closer to Java developers.
 
-hackernews · volumes94 · Jul 30, 22:33 · [Discussion](https://news.ycombinator.com/item?id=49116721)
+hackernews · mfiguiere · Jul 31, 04:38 · [Discussion](https://news.ycombinator.com/item?id=49119063)
 
-**Background**: In academic conferences, an oral presentation is a prestigious slot reserved for top-ranked accepted papers. Peer review traditionally relies on domain experts voluntarily evaluating submissions, but recent surges in AI-generated drafts and experiments with automated reviewing have strained the system.
-
-**Discussion**: Commenters expressed frustration with the &\#x27;publish or perish&\#x27; culture, noting that research is increasingly written, reviewed, and summarized by AI. Others were surprised by mandatory review quotas that force unqualified authors to evaluate complex submissions, arguing that submitting fake papers should carry severe academic penalties.
-
-**Tags**: `#AI Research`, `#Peer Review`, `#Academic Integrity`, `#Machine Learning`
+**Tags**: `#Java`, `#OpenJDK`, `#JVM`, `#Project Valhalla`, `#Programming Languages`
 
 ---
 
 <a id="item-4"></a>
-## [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) ⭐️ 8.0/10
+## [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) ⭐️ 8.0/10
 
-Google DeepMind announced Gemini Robotics 2, aimed at bringing whole-body intelligence and multimodal AI capabilities to robotic systems.
+GitHub has launched stacked pull requests in public preview, enabling developers to create and manage dependent chains of pull requests natively.
 
-hackernews · ai2027 · Jul 30, 15:15 · [Discussion](https://news.ycombinator.com/item?id=49111237)
+hackernews · tomzorz · Jul 30, 16:26 · [Discussion](https://news.ycombinator.com/item?id=49112232)
 
-**Tags**: `#Robotics`, `#Embodied AI`, `#Artificial Intelligence`, `#Google DeepMind`, `#Machine Learning`
-
----
-
-<a id="item-5"></a>
-## [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) ⭐️ 8.0/10
-
-KrebsOnSecurity warns consumers against buying cheap generic TV streaming sticks, which often ship with pre-installed malware, residential proxy setups, or unpatchable security vulnerabilities.
-
-hackernews · speckx · Jul 30, 17:04 · [Discussion](https://news.ycombinator.com/item?id=49112744)
-
-**Tags**: `#security`, `#iot`, `#malware`, `#privacy`, `#hardware`
+**Tags**: `#GitHub`, `#Git`, `#Developer Tools`, `#Workflow`, `#Code Review`
 
 ---
