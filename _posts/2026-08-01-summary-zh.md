@@ -5,14 +5,21 @@ date: 2026-08-01
 lang: zh
 ---
 
-> 已分析 64 条内容，但没有达到重要性阈值的条目。
+> 从 72 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Elevators](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Elevators](https://john.fun/elevators) ⭐️ 8.0/10
+
+An interactive exploration and visual analysis of different elevator scheduling algorithms and their efficiency under various traffic conditions.
+
+hackernews · Jrh0203 · 7月31日 15:17 · [社区讨论](https://news.ycombinator.com/item?id=49124218)
+
+**标签**: `#Algorithms`, `#Computer Science`, `#Simulation`, `#Systems`, `#Software Engineering`
+
+---
