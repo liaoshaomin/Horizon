@@ -5,33 +5,33 @@ date: 2026-08-01
 lang: zh
 ---
 
-> 从 67 条内容中筛选出 2 条重要资讯。
+> 从 68 条内容中筛选出 2 条重要资讯。
 
 ---
 
 1. [Ten advances in mathematics and theoretical computer science](#item-1) ⭐️ 9.0/10
-2. [Flint: A Visualization Language for the AI Era](#item-2) ⭐️ 8.0/10
+2. [deepseek-ai/DeepSeek-V4-Flash-0731](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) ⭐️ 9.0/10
 
-OpenAI highlights ten advances in mathematics and theoretical computer science achieved using their frontier AI models, demonstrating the increasing capability of AI in advanced research.
+OpenAI reports ten distinct technical advances in mathematics and theoretical computer science achieved using their frontier AI models.
 
 hackernews · milkshakes · 8月1日 07:37 · [社区讨论](https://news.ycombinator.com/item?id=49132058)
 
-**标签**: `#Artificial Intelligence`, `#Mathematics`, `#Theoretical Computer Science`, `#OpenAI`, `#Machine Learning`
+**标签**: `#Artificial Intelligence`, `#Mathematics`, `#Theoretical Computer Science`, `#Machine Learning`, `#OpenAI`
 
 ---
 
 <a id="item-2"></a>
-## [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/) ⭐️ 8.0/10
+## [deepseek-ai/DeepSeek-V4-Flash-0731](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) ⭐️ 8.0/10
 
-Microsoft has launched Flint, a domain-specific visualization language designed to streamline chart creation for AI agents.
+Simon Willison highlights the release of DeepSeek-V4-Flash-0731, a highly efficient 304B parameter model delivering top-tier performance at extremely low API costs.
 
-hackernews · vinhnx · 8月1日 02:45 · [社区讨论](https://news.ycombinator.com/item?id=49130604)
+rss · Simon Willison · 7月31日 23:59
 
-**标签**: `#Data Visualization`, `#Artificial Intelligence`, `#AI Agents`, `#Developer Tools`, `#Software Engineering`
+**标签**: `#AI/ML`, `#LLM`, `#DeepSeek`, `#AI Efficiency`, `#Model Benchmarks`
 
 ---
