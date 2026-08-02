@@ -9,17 +9,17 @@ lang: en
 
 ---
 
-1. [Seedance 2.5](#item-1) ⭐️ 8.0/10
+1. [Diátaxis](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) ⭐️ 8.0/10
+## [Diátaxis](https://diataxis.fr/) ⭐️ 8.0/10
 
-ByteDance has introduced Seedance 2.5, an upgraded AI video generation model offering enhanced reference controls and streamlined creation workflows.
+Diátaxis is a systematic framework that classifies technical documentation into four distinct modes: tutorials, how-to guides, reference material, and explanation.
 
-hackernews · njaremko · Aug 1, 20:45 · [Discussion](https://news.ycombinator.com/item?id=49138302)
+hackernews · ryanseys · Aug 1, 20:33 · [Discussion](https://news.ycombinator.com/item?id=49138188)
 
-**Tags**: `#Artificial Intelligence`, `#Video Generation`, `#Machine Learning`, `#Generative AI`, `#ByteDance`
+**Tags**: `#Documentation`, `#Technical Writing`, `#Software Engineering`, `#Best Practices`
 
 ---
