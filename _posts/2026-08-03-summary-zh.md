@@ -5,21 +5,21 @@ date: 2026-08-03
 lang: zh
 ---
 
-> 从 56 条内容中筛选出 1 条重要资讯。
+> 从 61 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [Qwen3.8-Max: A New Bar for Coding and Cowork](#item-1) ⭐️ 8.0/10
+1. [Critical CVE issued for hallucinated SQLite vulnerability](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) ⭐️ 8.0/10
+## [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) ⭐️ 8.0/10
 
-Alibaba has introduced Qwen3.8-Max, targeting state-of-the-art performance in coding and agentic collaboration tasks alongside announcements for upcoming open-weight releases.
+JFrog Research documents critical CVEs issued for nonexistent SQLite vulnerabilities that were likely hallucinated by LLMs, raising concerns over security signal-to-noise ratios.
 
-hackernews · ai2027 · 8月3日 02:16 · [社区讨论](https://news.ycombinator.com/item?id=49150470)
+hackernews · ymir\_e · 8月3日 11:28 · [社区讨论](https://news.ycombinator.com/item?id=49154332)
 
-**标签**: `#AI/ML`, `#LLM`, `#Qwen`, `#Software Engineering`, `#Artificial Intelligence`
+**标签**: `#Cybersecurity`, `#LLM`, `#Vulnerabilities`, `#AI Safety`, `#SQLite`
 
 ---
