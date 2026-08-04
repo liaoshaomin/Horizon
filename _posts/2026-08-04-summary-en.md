@@ -5,33 +5,33 @@ date: 2026-08-04
 lang: en
 ---
 
-> From 67 items, 2 important content pieces were selected
+> From 72 items, 2 important content pieces were selected
 
 ---
 
-1. [Harness Engineering for Self-Improvement](#item-1) ⭐️ 8.0/10
-2. [LLMs reward expertise](#item-2) ⭐️ 8.0/10
+1. [Mistral&\#x27;s Shieldstral: 3B open-weights model for multimodal moderation](#item-1) ⭐️ 8.0/10
+2. [Show HN: Simple algorithm and color space to generate diverse skin tones](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/) ⭐️ 8.0/10
+## [Mistral&\#x27;s Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/) ⭐️ 8.0/10
 
-The article explores harness engineering as a framework for structuring prompts, tools, and environments to enable AI agents to autonomously self-improve.
+Mistral AI has released Shieldstral, a 3B open-weights multimodal model designed for content moderation and safety filtering.
 
-hackernews · tosh · Aug 4, 06:17 · [Discussion](https://news.ycombinator.com/item?id=49164896)
+hackernews · riadsila · Aug 4, 16:36 · [Discussion](https://news.ycombinator.com/item?id=49171268)
 
-**Tags**: `#AI Agents`, `#LLM Architecture`, `#Prompt Engineering`, `#Machine Learning`
+**Tags**: `#AI Safety`, `#Open Source AI`, `#Mistral AI`, `#Multimodal`, `#Content Moderation`
 
 ---
 
 <a id="item-2"></a>
-## [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) ⭐️ 8.0/10
+## [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/) ⭐️ 8.0/10
 
-The article posits that LLMs reward domain expertise by acting as an amplifier of human capability, requiring user knowledge to properly guide and validate AI outputs.
+An interactive technical deep dive detailing a custom color space and procedural algorithm designed to easily generate realistic and diverse human skin tones for digital art and games.
 
-hackernews · MaxMussio · Aug 3, 21:13 · [Discussion](https://news.ycombinator.com/item?id=49161518)
+hackernews · automatoney · Aug 4, 15:16 · [Discussion](https://news.ycombinator.com/item?id=49170165)
 
-**Tags**: `#AI`, `#LLM`, `#Software Engineering`, `#Productivity`, `#Human-AI Interaction`
+**Tags**: `#Computer Graphics`, `#Color Science`, `#Procedural Generation`, `#Algorithms`, `#Game Development`
 
 ---
