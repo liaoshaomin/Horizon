@@ -5,45 +5,45 @@ date: 2026-08-04
 lang: zh
 ---
 
-> 从 72 条内容中筛选出 3 条重要资讯。
+> 从 70 条内容中筛选出 3 条重要资讯。
 
 ---
 
-1. [Ten advances in mathematics and theoretical computer science](#item-1) ⭐️ 9.0/10
-2. [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](#item-2) ⭐️ 8.0/10
-3. [Devtools must be open source](#item-3) ⭐️ 8.0/10
+1. [DeepSeek V4 Flash on a Single AMD MI300X](#item-1) ⭐️ 8.0/10
+2. [LLMs reward expertise](#item-2) ⭐️ 8.0/10
+3. [Harness Engineering for Self-Improvement](#item-3) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) ⭐️ 9.0/10
+## [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) ⭐️ 8.0/10
 
-OpenAI showcases ten significant advances in mathematics and theoretical computer science achieved through AI reasoning and formal disproof capabilities.
+This project showcases how to run DeepSeek V4 Flash on a single AMD MI300X GPU by reducing the context window to 256k while preserving model performance and throughput.
 
-hackernews · milkshakes · 8月3日 16:27 · [社区讨论](https://news.ycombinator.com/item?id=49157930)
+hackernews · zhoutong · 8月4日 10:00 · [社区讨论](https://news.ycombinator.com/item?id=49166386)
 
-**标签**: `#Artificial Intelligence`, `#Mathematics`, `#Theoretical Computer Science`, `#Automated Reasoning`, `#OpenAI`
+**标签**: `#AI/ML`, `#LLM Inference`, `#AMD MI300X`, `#DeepSeek`, `#Hardware Optimization`
 
 ---
 
 <a id="item-2"></a>
-## [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet) ⭐️ 8.0/10
+## [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) ⭐️ 8.0/10
 
-Swiftlet is an open-source project that enables running massive language models, such as an 80B Qwen, on consumer Macs and iPhones with minimal RAM requirements.
+The post argues that Large Language Models act as capability multipliers that primarily benefit experienced domain experts who know how to effectively direct and validate the model&\#x27;s outputs.
 
-hackernews · leonickson · 8月3日 16:54 · [社区讨论](https://news.ycombinator.com/item?id=49158333)
+hackernews · MaxMussio · 8月3日 21:13 · [社区讨论](https://news.ycombinator.com/item?id=49161518)
 
-**标签**: `#LLM`, `#On-Device AI`, `#Edge Computing`, `#Open Source`, `#Optimization`
+**标签**: `#AI/ML`, `#LLM`, `#Software Engineering`, `#Productivity`
 
 ---
 
 <a id="item-3"></a>
-## [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) ⭐️ 8.0/10
+## [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/) ⭐️ 8.0/10
 
-An opinion piece arguing that developer tools must be open source sparks debate over software customization, open-source economics, and how LLMs alter the practical value of source code access.
+This post explores harness engineering as a core framework for enabling self-improving AI agents, evolutionary program search, and automated research.
 
-hackernews · bryanmikaelian · 8月3日 14:15 · [社区讨论](https://news.ycombinator.com/item?id=49156111)
+hackernews · tosh · 8月4日 06:17 · [社区讨论](https://news.ycombinator.com/item?id=49164896)
 
-**标签**: `#Open Source`, `#Developer Tools`, `#LLMs`, `#Software Engineering`
+**标签**: `#AI Agents`, `#Self-Improvement`, `#LLM`, `#Harness Engineering`, `#Machine Learning`
 
 ---
