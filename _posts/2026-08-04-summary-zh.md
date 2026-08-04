@@ -5,33 +5,45 @@ date: 2026-08-04
 lang: zh
 ---
 
-> 从 72 条内容中筛选出 2 条重要资讯。
+> 从 75 条内容中筛选出 3 条重要资讯。
 
 ---
 
-1. [Devtools must be open source](#item-1) ⭐️ 8.0/10
-2. [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](#item-2) ⭐️ 8.0/10
+1. [LLMs reward expertise](#item-1) ⭐️ 8.0/10
+2. [Ten advances in mathematics and theoretical computer science](#item-2) ⭐️ 8.0/10
+3. [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](#item-3) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) ⭐️ 8.0/10
+## [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) ⭐️ 8.0/10
 
-The post argues for open-source developer tools, provoking a broader community debate on using LLMs to directly modify and rebuild local software instead of relying on traditional config files and plugin architectures.
+The article explores how domain expertise significantly enhances the utility of LLMs, enabling skilled users to construct precise prompts and effectively validate outputs.
 
-hackernews · bryanmikaelian · 8月3日 14:15 · [社区讨论](https://news.ycombinator.com/item?id=49156111)
+hackernews · MaxMussio · 8月3日 21:13 · [社区讨论](https://news.ycombinator.com/item?id=49161518)
 
-**标签**: `#Open Source`, `#Developer Tools`, `#LLMs`, `#Software Engineering`
+**标签**: `#AI/ML`, `#LLM`, `#Software Engineering`, `#Productivity`, `#Prompt Engineering`
 
 ---
 
 <a id="item-2"></a>
+## [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) ⭐️ 8.0/10
+
+OpenAI highlights ten recent advances in mathematics and theoretical computer science achieved or accelerated using modern AI models.
+
+hackernews · milkshakes · 8月3日 16:27 · [社区讨论](https://news.ycombinator.com/item?id=49157930)
+
+**标签**: `#Artificial Intelligence`, `#Mathematics`, `#Theoretical Computer Science`, `#Automated Reasoning`
+
+---
+
+<a id="item-3"></a>
 ## [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) ⭐️ 8.0/10
 
-ComfyUI introduces day-0 support for the MiniMax H3 open-weights model, bringing native audio and 2K video generation to local consumer GPUs through innovative memory footprint optimizations.
+ComfyUI now offers day-0 support for MiniMax H3, an open-weights model capable of generating 2K video with native audio directly on consumer hardware.
 
 hackernews · vblanco · 8月3日 13:34 · [社区讨论](https://news.ycombinator.com/item?id=49155629)
 
-**标签**: `#AI`, `#Generative AI`, `#Video Generation`, `#ComfyUI`, `#Open Source`
+**标签**: `#Artificial Intelligence`, `#Generative AI`, `#Video Generation`, `#ComfyUI`, `#Open Weights`
 
 ---
