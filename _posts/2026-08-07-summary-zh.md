@@ -5,21 +5,14 @@ date: 2026-08-07
 lang: zh
 ---
 
-> 从 72 条内容中筛选出 1 条重要资讯。
+> 已分析 71 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [AMD acquires Taalas to boost inference performance by etching models in silicon](#item-1) ⭐️ 9.0/10
-
----
-
-<a id="item-1"></a>
-## [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) ⭐️ 9.0/10
-
-AMD has acquired AI chip startup Taalas to advance compute solutions by etching neural network models directly into silicon to dramatically boost inference speed and efficiency.
-
-hackernews · itvision · 8月6日 20:23 · [社区讨论](https://news.ycombinator.com/item?id=49201970)
-
-**标签**: `#AI Hardware`, `#Inference Acceleration`, `#AMD`, `#ASIC`, `#Semiconductors`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
