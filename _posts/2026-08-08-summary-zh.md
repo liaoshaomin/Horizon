@@ -5,45 +5,14 @@ date: 2026-08-08
 lang: zh
 ---
 
-> 从 76 条内容中筛选出 3 条重要资讯。
+> 已分析 72 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [sgl-project/sglang released v0.5.17](#item-1) ⭐️ 8.0/10
-2. [What happens if an entire class of workers loses faith in their careers](#item-2) ⭐️ 8.0/10
-3. [Oracle bans AI-generated code from OpenJDK](#item-3) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [sgl-project/sglang released v0.5.17](https://github.com/sgl-project/sglang/releases/tag/v0.5.17) ⭐️ 8.0/10
-
-SGLang v0.5.17 releases day-0 serving support for the 2.8T-parameter Kimi K3 multimodal LatentMoE model along with extensive inference and caching optimizations.
-
-github · Fridge003 · 8月8日 00:19
-
-**标签**: `#LLM Inference`, `#SGLang`, `#Mixture of Experts`, `#Model Serving`, `#GPU Acceleration`
-
----
-
-<a id="item-2"></a>
-## [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) ⭐️ 8.0/10
-
-An exploration of the growing sense of anxiety, burnout, and career disillusionment among technology professionals amidst changing industry landscapes.
-
-hackernews · RickJWagner · 8月7日 12:42 · [社区讨论](https://news.ycombinator.com/item?id=49209539)
-
-**标签**: `#tech-industry`, `#careers`, `#sociology`, `#culture`
-
----
-
-<a id="item-3"></a>
-## [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) ⭐️ 8.0/10
-
-Oracle has instituted an interim policy banning generative AI-produced code contributions to OpenJDK due to intellectual property, legal, and code quality concerns.
-
-hackernews · delduca · 8月7日 17:36 · [社区讨论](https://news.ycombinator.com/item?id=49213754)
-
-**标签**: `#Java`, `#OpenJDK`, `#AI Policy`, `#Open Source`, `#Software Development`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
