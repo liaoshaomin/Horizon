@@ -5,14 +5,21 @@ date: 2026-08-08
 lang: en
 ---
 
-> Analyzed 68 items, but none met the importance threshold.
+> From 56 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Denmark Requires Oral Defenses for Students&\#x27; Written Work to Counter AI Cheating](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Denmark Requires Oral Defenses for Students&\#x27; Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/) ⭐️ 8.0/10
+
+Denmark is adopting mandatory oral defenses for student assignments to combat AI-generated plagiarism in academic settings.
+
+hackernews · theanonymousone · Aug 8, 18:09 · [Discussion](https://news.ycombinator.com/item?id=49224294)
+
+**Tags**: `#Artificial Intelligence`, `#Education`, `#Generative AI`, `#Policy`
+
+---
