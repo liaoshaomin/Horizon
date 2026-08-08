@@ -11,39 +11,39 @@ lang: zh
 
 1. [sgl-project/sglang released v0.5.17](#item-1) ⭐️ 8.0/10
 2. [DeepSeek V4 Flash 0731](#item-2) ⭐️ 8.0/10
-3. [What happens if an entire class of workers loses faith in their careers](#item-3) ⭐️ 8.0/10
+3. [Assembly Hall of Shame](#item-3) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [sgl-project/sglang released v0.5.17](https://github.com/sgl-project/sglang/releases/tag/v0.5.17) ⭐️ 8.0/10
 
-SGLang release v0.5.17 delivers day-zero serving support and inference optimizations for the 2.8T-parameter Kimi K3 model across NVIDIA and AMD hardware.
+SGLang v0.5.17 releases day-0 serving support for the 2.8T-parameter Kimi K3 model alongside advanced pipeline optimizations like KDA-aware prefix caching and speculative decoding.
 
 github · Fridge003 · 8月8日 00:19
 
-**标签**: `#LLM Inference`, `#SGLang`, `#Open Source AI`, `#MoE Models`
+**标签**: `#LLM Inference`, `#SGLang`, `#AI Infrastructure`, `#Open Source`
 
 ---
 
 <a id="item-2"></a>
 ## [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) ⭐️ 8.0/10
 
-DeepSeek V4 Flash 0731 shows notable ARC Prize benchmark results while delivering ultra-fast inference speeds and high cost-efficiency for local and API usage.
+Hacker News users evaluate and share practical experiences with the newly updated DeepSeek V4 Flash model, highlighting its impressive inference speeds and low costs.
 
 hackernews · tosh · 8月7日 17:56 · [社区讨论](https://news.ycombinator.com/item?id=49214008)
 
-**标签**: `#AI`, `#LLM`, `#DeepSeek`, `#ARC Prize`, `#Machine Learning`
+**标签**: `#AI/ML`, `#Large Language Models`, `#DeepSeek`, `#Benchmarks`, `#AI Infrastructure`
 
 ---
 
 <a id="item-3"></a>
-## [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) ⭐️ 8.0/10
+## [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) ⭐️ 8.0/10
 
-An exploration of declining morale and career faith among tech workers, drawing comparisons to historical industry shifts and the changing nature of the internet.
+The &\#x27;Assembly Hall of Shame&\#x27; is a curated benchmark documenting x86 instructions with inexplicably long execution times or latent hardware performance bottlenecks.
 
-hackernews · RickJWagner · 8月7日 12:42 · [社区讨论](https://news.ycombinator.com/item?id=49209539)
+hackernews · piotrgrabowski · 8月7日 18:01 · [社区讨论](https://news.ycombinator.com/item?id=49214098)
 
-**标签**: `#tech-culture`, `#industry-trends`, `#careers`, `#tech-burnout`
+**标签**: `#Assembly`, `#x86`, `#Hardware`, `#Reverse Engineering`, `#Computer Architecture`
 
 ---
