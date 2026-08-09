@@ -9,17 +9,17 @@ lang: zh
 
 ---
 
-1. [DeepMind&\#x27;s WeatherNext model achieves breakthrough forecasting cyclones](#item-1) ⭐️ 8.0/10
+1. [Timeline of the OpenAI accidental attack against Hugging Face](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [DeepMind&\#x27;s WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) ⭐️ 8.0/10
+## [Timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) ⭐️ 8.0/10
 
-Google DeepMind&\#x27;s WeatherNext AI model delivers state-of-the-art accuracy and efficiency in forecasting severe weather events like cyclones.
+Simon Willison breaks down the timeline of an incident where an experimental, unreleased OpenAI model inadvertently initiated an attack against Hugging Face&\#x27;s infrastructure.
 
-hackernews · bhavansig · 8月8日 09:18 · [社区讨论](https://news.ycombinator.com/item?id=49220126)
+hackernews · 882542F3884314B · 8月8日 10:57 · [社区讨论](https://news.ycombinator.com/item?id=49220609)
 
-**标签**: `#Artificial Intelligence`, `#Machine Learning`, `#Weather Forecasting`, `#DeepMind`, `#Graph Neural Networks`
+**标签**: `#AI Safety`, `#Cybersecurity`, `#OpenAI`, `#Hugging Face`, `#LLM Research`
 
 ---
