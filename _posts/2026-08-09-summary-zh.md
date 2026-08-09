@@ -5,25 +5,33 @@ date: 2026-08-09
 lang: zh
 ---
 
-> 从 50 条内容中筛选出 1 条重要资讯。
+> 从 52 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [UTM 推出 Triton：用于 QEMU 虚拟机的 DirectX 11 驱动程序](#item-1) ⭐️ 8.0/10
+1. [Shopify 用 MySQL 替换 Redis 构建高并发库存预订系统](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [UTM 推出 Triton：用于 QEMU 虚拟机的 DirectX 11 驱动程序](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/) ⭐️ 8.0/10
+## [Shopify 用 MySQL 替换 Redis 构建高并发库存预订系统](https://shopify.engineering/scaling-inventory-reservations) ⭐️ 8.0/10
 
-UTM 宣布推出 Triton，这是一款专为 QEMU 开发的新型开源 DirectX 11 驱动程序，可为 Windows 虚拟机带来硬件加速的 3D 图形性能。这使得虚拟机中的 Windows 环境能够直接利用宿主机的 GPU 资源运行 3D 负载，而无需依赖 dedicated GPU 直通。 长期以来，在 Linux 或 macOS 上的 Windows 虚拟机中实现流畅的 3D 图形加速一直是一项复杂的任务，往往需要专门的硬件直通配置。Triton 降低了虚拟化用户的技术门槛，大幅提升了在虚拟化环境中运行 DirectX 11 游戏和应用的可行性。 Triton 专门针对 QEMU 虚拟化图形架构中的 DirectX 11 API 加速。通过转换 DirectX 指令以共享宿主机的 GPU，它为桌面虚拟化提供了一个高性能的虚拟驱动方案。
+Shopify 对其高并发库存预订系统进行了架构重构，成功从 Redis 迁移到了 MySQL。为了在应对限时抢购（Flash Sale）高并发流量的同时避免行锁争用，他们采用了每个商品及位置组合上限为 1,000 行的有界池（Bounded Pool）模式。 这一迁移打破了行业普遍认为高并发计数器和无锁预订必须依赖 Redis 或内存数据库的传统观念。它表明只要配合巧妙的数据库表结构设计与锁管理，关系型数据库如 MySQL 同样能够承载极端的限时抢购突发流量。 该架构没有采用更新单一库存数量列的方式，而是在上限为 1,000 的动态池中为每个可售单位分配独立的行，并由后台进程持续更新补充。此外，系统还通过强制执行一致的锁顺序，有效防止了高并发下的数据库死锁问题。
 
-hackernews · electricant · 8月8日 13:33 · [社区讨论](https://news.ycombinator.com/item?id=49221711)
+hackernews · adletbalzhanov · 8月8日 22:32 · [社区讨论](https://news.ycombinator.com/item?id=49226536)
 
-**背景**: QEMU 是一款被广泛使用的开源模拟器与虚拟化软件，但由于虚拟 GPU 驱动支持有限，Windows 虚拟机系统的图形性能长期受限。如果没有 GPU 直通（即将一块物理显卡直接分配给虚拟机，通常需要两块物理显卡），Windows 虚拟机内的 3D 渲染只能依赖缓慢的软件模拟。
+**背景**: 限时抢购活动会带来高达 10 到 100 倍的突发流量，数万名并发用户会同时尝试抢购有限的库存。当大量事务尝试同时更新完全相同的库存计数器行时，传统的数据库更新会导致严重的锁争用和死锁。虽然 Redis 常用于快速的内存计数操作，但在复杂的结账流程中确保严格的数据持久性、一致性和事务安全往往存在挑战。
 
-**社区讨论**: 社区成员对该驱动程序的推出表示欢迎，并指出在单 GPU 的 Linux 配置下，过去的 GPU 直通一直是进行游戏和 3D 任务时的一大痛点。几位评论者还询问了该驱动是否同时支持较旧的 DirectX 版本（DX1-10），或者类似的解决方案能否移植到 VirtualBox 等其他虚拟机软件中。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://sujeet.pro/articles/design-flash-sale-system">Design a Flash Sale System — Sujeet Jaiswal - Principal ...</a></li>
+<li><a href="https://nileshblog.tech/designing-a-high-concurrency-flash-sale-stock-inventory-reservation-system-with-node-js-redis-lua-and-mongodb/">Designing a High-Concurrency Flash Sale Stock &amp; Inventory ...</a></li>
 
-**标签**: `#Virtualization`, `#QEMU`, `#DirectX`, `#GPU Acceleration`, `#Linux`
+</ul>
+</details>
+
+**社区讨论**: 开发者社区对这一实操性极强的扩容案例给予了高度评价，许多工程师非常欢迎关于 MySQL 生产环境极限运用的深度解析。部分网友讨论了如无锁后台超时处理等替代方案，也有读者指出了技术文章中关于表名拼写的一些小瑕疵。
+
+**标签**: `#MySQL`, `#Redis`, `#System Design`, `#Scalability`, `#Database Architecture`
 
 ---

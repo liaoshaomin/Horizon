@@ -5,25 +5,33 @@ date: 2026-08-09
 lang: en
 ---
 
-> From 50 items, 1 important content pieces were selected
+> From 52 items, 1 important content pieces were selected
 
 ---
 
-1. [UTM Introduces Triton, a DirectX 11 Driver for QEMU Virtual Machines](#item-1) ⭐️ 8.0/10
+1. [Shopify Replaces Redis with MySQL for High-Concurrency Inventory Reservations](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [UTM Introduces Triton, a DirectX 11 Driver for QEMU Virtual Machines](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/) ⭐️ 8.0/10
+## [Shopify Replaces Redis with MySQL for High-Concurrency Inventory Reservations](https://shopify.engineering/scaling-inventory-reservations) ⭐️ 8.0/10
 
-UTM has announced Triton, a new open-source DirectX 11 driver for QEMU that brings hardware-accelerated 3D graphics performance to Windows virtual machines. This enables guest Windows environments to run 3D workloads natively using host GPU resources without needing dedicated GPU passthrough. Achieving smooth 3D graphics acceleration in Windows virtual machines on Linux or macOS has long been a complex setup requiring dedicated hardware passthrough. Triton lowers the technical barrier for virtualization users, expanding the feasibility of running DirectX 11 games and applications in virtual environments. Triton specifically targets DirectX 11 API acceleration within QEMU&\#x27;s virtualized graphics architecture. By translating DirectX commands to share the host GPU, it provides a performant virtual driver option for desktop virtualization.
+Shopify re-architected its high-concurrency inventory reservation system, successfully migrating from Redis to MySQL. To scale effectively during flash sales without row lock contention, they implemented a bounded pool pattern capped at 1,000 available rows per item and location combination. This migration challenges the common industry practice of using Redis or in-memory datastores for high-throughput counters and lock-free reservation systems. It demonstrates that relational databases like MySQL can handle extreme flash-sale traffic spikes when paired with clever schema design and lock management. Rather than updating a single inventory row with a quantity counter, the architecture allocates individual rows per sellable unit in a bounded pool capped at 1,000 items per location, which a continuous background worker process replenishes. The system also strictly enforces consistent lock ordering to prevent database deadlocks under extreme concurrency.
 
-hackernews · electricant · Aug 8, 13:33 · [Discussion](https://news.ycombinator.com/item?id=49221711)
+hackernews · adletbalzhanov · Aug 8, 22:32 · [Discussion](https://news.ycombinator.com/item?id=49226536)
 
-**Background**: QEMU is a widely used open-source emulator and virtualizer, but graphics performance in Windows guest OSs has historically lagged due to limited virtual GPU driver support. Without GPU passthrough—which routes a physical graphics card directly into a VM and typically requires two physical GPUs—3D rendering inside Windows guests relies on slow software emulation.
+**Background**: Flash sales generate sudden 10x to 100x traffic spikes where thousands of concurrent shoppers attempt to reserve limited inventory simultaneously. Traditional database updates can cause severe lock contention and deadlocks when many transactions try to update the exact same inventory counter row at once. While Redis is frequently used for fast in-memory counter operations, ensuring strict durability, consistency, and transactional safety across complex checkout flows can be challenging.
 
-**Discussion**: Community members welcomed the driver, noting that GPU passthrough on single-GPU Linux setups was previously a major pain point for gaming and 3D tasks. Several commenters questioned whether older DirectX versions \(DX1-10\) are also supported or if similar solutions could be brought to hypervisors like VirtualBox.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://sujeet.pro/articles/design-flash-sale-system">Design a Flash Sale System — Sujeet Jaiswal - Principal ...</a></li>
+<li><a href="https://nileshblog.tech/designing-a-high-concurrency-flash-sale-stock-inventory-reservation-system-with-node-js-redis-lua-and-mongodb/">Designing a High-Concurrency Flash Sale Stock &amp; Inventory ...</a></li>
 
-**Tags**: `#Virtualization`, `#QEMU`, `#DirectX`, `#GPU Acceleration`, `#Linux`
+</ul>
+</details>
+
+**Discussion**: The developer community praised the realistic scaling breakdown, with many engineers appreciating case studies on production MySQL limits. Some commenters debated alternative designs, such as lock-free background timeout workers, while others pointed out minor editorial inconsistencies in table names within the technical article.
+
+**Tags**: `#MySQL`, `#Redis`, `#System Design`, `#Scalability`, `#Database Architecture`
 
 ---
