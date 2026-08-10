@@ -5,33 +5,14 @@ date: 2026-08-10
 lang: zh
 ---
 
-> 从 64 条内容中筛选出 2 条重要资讯。
+> 已分析 71 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](#item-1) ⭐️ 8.0/10
-2. [What Happened to HackerOne?](#item-2) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) ⭐️ 8.0/10
-
-Docker has introduced Docker Sandboxes, providing disposable, isolated execution environments with outbound firewalling and secret injection to safely run AI agents.
-
-hackernews · etoxin · 8月10日 06:02 · [社区讨论](https://news.ycombinator.com/item?id=49239751)
-
-**标签**: `#Docker`, `#AI Agents`, `#Sandboxing`, `#Security`, `#Developer Tools`
-
----
-
-<a id="item-2"></a>
-## [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/) ⭐️ 8.0/10
-
-An analysis detailing the decline of HackerOne&\#x27;s bug bounty platform quality, corporate shift towards sales, and the evolving dynamics of vulnerability disclosure programs.
-
-hackernews · hipparchus · 8月10日 02:23 · [社区讨论](https://news.ycombinator.com/item?id=49238561)
-
-**标签**: `#Cybersecurity`, `#Bug Bounty`, `#HackerOne`, `#Software Security`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
