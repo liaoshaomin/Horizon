@@ -16,10 +16,10 @@ lang: zh
 <a id="item-1"></a>
 ## [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) ⭐️ 8.0/10
 
-Docker has introduced Docker Sandboxes, offering disposable microVM-isolated environments with outbound firewalls and secret injection designed specifically for safely running AI agents.
+Docker has released Docker Sandboxes to provide disposable, isolated container environments specifically designed for running untrusted AI agents safely.
 
 hackernews · etoxin · 8月10日 06:02 · [社区讨论](https://news.ycombinator.com/item?id=49239751)
 
-**标签**: `#Docker`, `#AI Infrastructure`, `#Sandboxing`, `#Security`, `#DevOps`
+**标签**: `#Docker`, `#AI Agents`, `#Sandboxing`, `#Security`, `#Containers`
 
 ---
