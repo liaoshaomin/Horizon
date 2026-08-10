@@ -5,14 +5,21 @@ date: 2026-08-10
 lang: zh
 ---
 
-> 已分析 55 条内容，但没有达到重要性阈值的条目。
+> 从 54 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Cool URIs Don&\#x27;t Change \(1998\)](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Cool URIs Don&\#x27;t Change \(1998\)](https://www.w3.org/Provider/Style/URI) ⭐️ 8.0/10
+
+Tim Berners-Lee argues that the instability of web addresses is caused by poor management rather than technical constraints, advocating for persistent URI design.
+
+hackernews · Klaster\_1 · 8月9日 14:32 · [社区讨论](https://news.ycombinator.com/item?id=49231809)
+
+**标签**: `#Web Development`, `#Software Architecture`, `#HTTP`, `#Internet History`
+
+---
