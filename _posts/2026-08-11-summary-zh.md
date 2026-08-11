@@ -5,14 +5,21 @@ date: 2026-08-11
 lang: zh
 ---
 
-> 已分析 71 条内容，但没有达到重要性阈值的条目。
+> 从 72 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [As AI eats the web, the internet’s collective memory is disappearing](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) ⭐️ 8.0/10
+
+The article and discussion explore how the proliferation of AI-generated content and shifting search dynamics are degrading the quality of the web and eroding incentives for original human content creation.
+
+hackernews · awnird · 8月10日 22:36 · [社区讨论](https://news.ycombinator.com/item?id=49250836)
+
+**标签**: `#Artificial Intelligence`, `#Search Engines`, `#Web Ecosystem`, `#Information Quality`
+
+---
