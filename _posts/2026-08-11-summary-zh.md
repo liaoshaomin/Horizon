@@ -9,29 +9,29 @@ lang: zh
 
 ---
 
-1. [The UK&\#x27;s War on Anonymity Has Come to America](#item-1) ⭐️ 8.0/10
-2. [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](#item-2) ⭐️ 8.0/10
+1. [vllm-project/vllm released v0.27.0](#item-1) ⭐️ 8.0/10
+2. [Mark Zuckerberg attacks &\#x27;closed&\#x27; AI rivals as Meta returns to open models](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [The UK&\#x27;s War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) ⭐️ 8.0/10
+## [vllm-project/vllm released v0.27.0](https://github.com/vllm-project/vllm/releases/tag/v0.27.0) ⭐️ 8.0/10
 
-The article details how UK-backed lobbying tactics and NGOs are leveraging child safety arguments to introduce strict age-assurance and digital ID legislation in the United States.
+vLLM v0.27.0 brings support for Kimi K3 and Qwen3.5 models, updates the PyTorch backend to 2.13.0, and deepens FlashAttention 4 integration for SM100 architecture.
 
-hackernews · slowin · 8月10日 23:45 · [社区讨论](https://news.ycombinator.com/item?id=49251411)
+github · khluu · 8月10日 21:18
 
-**标签**: `#Privacy`, `#Tech Policy`, `#Internet Anonymity`, `#Regulation`, `#Digital ID`
+**标签**: `#AI/ML`, `#LLM Inference`, `#vLLM`, `#Open Source`, `#PyTorch`
 
 ---
 
 <a id="item-2"></a>
-## [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle) ⭐️ 8.0/10
+## [Mark Zuckerberg attacks &\#x27;closed&\#x27; AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) ⭐️ 8.0/10
 
-Cactus released Needle 2, a 14MB, 45-million parameter 2-bit quantized agentic LLM optimized for tool-calling and device control on microcontrollers and edge hardware.
+Mark Zuckerberg publicly criticizes closed-source AI competitors while reiterating Meta&\#x27;s commitment to open-weight AI models and opposing centralized control in AI development.
 
-hackernews · HenryNdubuaku · 8月10日 17:22 · [社区讨论](https://news.ycombinator.com/item?id=49246804)
+hackernews · root-parent · 8月10日 14:06 · [社区讨论](https://news.ycombinator.com/item?id=49243880)
 
-**标签**: `#AI/ML`, `#Edge Computing`, `#Large Language Models`, `#Embedded Systems`, `#On-Device AI`
+**标签**: `#AI`, `#Open Source`, `#Meta`, `#Tech Policy`, `#LLMs`
 
 ---
