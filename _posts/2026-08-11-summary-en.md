@@ -5,14 +5,33 @@ date: 2026-08-11
 lang: en
 ---
 
-> Analyzed 71 items, but none met the importance threshold.
+> From 68 items, 2 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [vllm-project/vllm released v0.27.0](#item-1) ⭐️ 8.0/10
+2. [As AI eats the web, the internet’s collective memory is disappearing](#item-2) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [vllm-project/vllm released v0.27.0](https://github.com/vllm-project/vllm/releases/tag/v0.27.0) ⭐️ 8.0/10
+
+vLLM v0.27.0 adds support for Kimi K3 and Qwen3.5 models, upgrades to PyTorch 2.13.0, and deepens FlashAttention 4 integration on SM100 GPUs.
+
+github · khluu · Aug 10, 21:18
+
+**Tags**: `#vLLM`, `#LLM Inference`, `#AI Infrastructure`, `#Open Source`, `#PyTorch`
+
+---
+
+<a id="item-2"></a>
+## [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) ⭐️ 8.0/10
+
+The article examines how AI-generated spam and search engine changes are eroding the quality, persistence, and incentives for creating human-authored content on the open web.
+
+hackernews · awnird · Aug 10, 22:36 · [Discussion](https://news.ycombinator.com/item?id=49250836)
+
+**Tags**: `#artificial-intelligence`, `#web-search`, `#tech-industry`, `#information-architecture`
+
+---
