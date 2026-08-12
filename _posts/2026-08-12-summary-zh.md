@@ -5,33 +5,33 @@ date: 2026-08-12
 lang: zh
 ---
 
-> 从 72 条内容中筛选出 2 条重要资讯。
+> 从 74 条内容中筛选出 2 条重要资讯。
 
 ---
 
-1. [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](#item-1) ⭐️ 8.0/10
-2. [Mojo 1.0](#item-2) ⭐️ 8.0/10
+1. [Compression is prediction](#item-1) ⭐️ 8.0/10
+2. [Stealing Reasoning Traces from Proprietary LLM APIs](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) ⭐️ 8.0/10
+## [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) ⭐️ 8.0/10
 
-Nvidia announced Nemotron 3.5 Lightning models alongside NeMo Switchyard, an open-source library designed for intelligent request routing across AI models.
+The post examines the conceptual and mathematical link between data compression and predictive modeling, demonstrating how effective compression relies on underlying statistical prediction.
 
-hackernews · droidjj · 8月11日 19:35 · [社区讨论](https://news.ycombinator.com/item?id=49263340)
+hackernews · nikolay · 8月11日 19:49 · [社区讨论](https://news.ycombinator.com/item?id=49263497)
 
-**标签**: `#Artificial Intelligence`, `#Large Language Models`, `#Nvidia`, `#Machine Learning`, `#Open Source`
+**标签**: `#Information Theory`, `#Machine Learning`, `#Compression`, `#Computer Science`
 
 ---
 
 <a id="item-2"></a>
-## [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) ⭐️ 8.0/10
+## [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) ⭐️ 8.0/10
 
-Modular has officially announced the release of Mojo 1.0, marking a major milestone in its development as a high-performance programming language designed for AI infrastructure.
+Researchers demonstrate a technique to extract hidden reasoning traces from proprietary AI models by replaying trace prompts into weaker, more easily jailbroken sibling models.
 
-hackernews · dayanruben · 8月11日 16:56 · [社区讨论](https://news.ycombinator.com/item?id=49261128)
+hackernews · quantumgarbage · 8月11日 13:22 · [社区讨论](https://news.ycombinator.com/item?id=49257876)
 
-**标签**: `#Mojo`, `#Programming Languages`, `#AI Infrastructure`, `#Systems Programming`
+**标签**: `#AI Security`, `#Large Language Models`, `#Chain of Thought`, `#Jailbreaking`
 
 ---
