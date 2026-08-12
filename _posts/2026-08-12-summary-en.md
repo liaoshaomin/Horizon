@@ -5,33 +5,21 @@ date: 2026-08-12
 lang: en
 ---
 
-> From 69 items, 2 important content pieces were selected
+> From 69 items, 1 important content pieces were selected
 
 ---
 
-1. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](#item-1) ⭐️ 8.0/10
-2. [AI is removing the middle class of software engineering](#item-2) ⭐️ 8.0/10
+1. [Qwen/Qwen3.8-2.4T-A95B](#item-1) ⭐️ 9.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) ⭐️ 8.0/10
+## [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) ⭐️ 9.0/10
 
-Tailscale details how they uncovered and isolated a long-standing 16-year-old race condition bug in SQLite&\#x27;s WAL-reset mechanism by building and funding a custom open-source debugging tool.
+Alibaba&\#x27;s Qwen team has released Qwen3.8-2.4T-A95B, a 2.4-trillion parameter open Mixture-of-Experts AI model with 95 billion active parameters.
 
-hackernews · ropbear · Aug 12, 14:22 · [Discussion](https://news.ycombinator.com/item?id=49272832)
+hackernews · Philpax · Aug 12, 15:01 · [Discussion](https://news.ycombinator.com/item?id=49273478)
 
-**Tags**: `#SQLite`, `#Debugging`, `#Databases`, `#Tailscale`, `#Software Reliability`
-
----
-
-<a id="item-2"></a>
-## [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) ⭐️ 8.0/10
-
-The post and accompanying discussion examine how AI automation is taking over routine mid-level coding tasks, potentially disrupting the career progression pipeline for future senior engineers.
-
-hackernews · florianherrengt · Aug 12, 13:20 · [Discussion](https://news.ycombinator.com/item?id=49271994)
-
-**Tags**: `#Artificial Intelligence`, `#Software Engineering`, `#Tech Careers`, `#Industry Trends`
+**Tags**: `#AI/ML`, `#LLM`, `#Open Source AI`, `#Mixture of Experts`
 
 ---
