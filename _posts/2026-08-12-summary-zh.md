@@ -5,21 +5,21 @@ date: 2026-08-12
 lang: zh
 ---
 
-> 从 73 条内容中筛选出 1 条重要资讯。
+> 从 75 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [llama.cpp](#item-1) ⭐️ 8.0/10
+1. [Compression is prediction](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [llama.cpp](https://llama.app/) ⭐️ 8.0/10
+## [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) ⭐️ 8.0/10
 
-A Hacker News discussion on llama.cpp, highlighting its effectiveness as a local LLM inference framework, its multi-model server capabilities, and ongoing community feedback regarding hardware support.
+The article explores the fundamental theoretical equivalence between data compression and prediction, demonstrating how modeling patterns to compress information reflects core principles of intelligence.
 
-hackernews · kristianpaul · 8月12日 04:51 · [社区讨论](https://news.ycombinator.com/item?id=49267928)
+hackernews · nikolay · 8月11日 19:49 · [社区讨论](https://news.ycombinator.com/item?id=49263497)
 
-**标签**: `#AI/ML`, `#LLM`, `#Open Source`, `#llama.cpp`, `#Local AI`
+**标签**: `#Information Theory`, `#Machine Learning`, `#Data Compression`, `#Artificial Intelligence`
 
 ---
