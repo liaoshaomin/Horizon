@@ -5,21 +5,21 @@ date: 2026-08-13
 lang: zh
 ---
 
-> 从 67 条内容中筛选出 1 条重要资讯。
+> 从 68 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [Spaghettifying DRAM](#item-1) ⭐️ 8.0/10
+1. [Gemini 3.7 Flash](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 8.0/10
+## [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) ⭐️ 8.0/10
 
-This project demonstrates a low-level hardware exploitation technique where manipulating DRAM controller configurations allows ring 0 root users to bypass security boundaries into negative-ring execution spaces.
+Google announces Gemini 3.7 Flash, sparking active discussion among developers around its vision capabilities, reasoning performance, and pricing model.
 
-hackernews · matt\_d · 8月13日 14:17 · [社区讨论](https://news.ycombinator.com/item?id=49286341)
+hackernews · thisisauserid · 8月13日 17:23 · [社区讨论](https://news.ycombinator.com/item?id=49289112)
 
-**标签**: `#Hardware Security`, `#DRAM`, `#Vulnerability Research`, `#x86 Architecture`, `#Exploit Development`
+**标签**: `#AI/ML`, `#LLM`, `#Google Gemini`, `#Artificial Intelligence`
 
 ---
