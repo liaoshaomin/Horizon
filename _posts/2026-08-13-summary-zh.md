@@ -5,33 +5,21 @@ date: 2026-08-13
 lang: zh
 ---
 
-> 从 70 条内容中筛选出 2 条重要资讯。
+> 从 73 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [DeepSeek V4 Pro 0813](#item-1) ⭐️ 8.0/10
-2. [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](#item-2) ⭐️ 8.0/10
+1. [Qwen3.8-2.4T](#item-1) ⭐️ 9.0/10
 
 ---
 
 <a id="item-1"></a>
-## [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) ⭐️ 8.0/10
+## [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) ⭐️ 9.0/10
 
-Hacker News users discuss the release and early performance testing of the DeepSeek V4 Pro model on OpenRouter, highlighting its cost-effectiveness and capabilities for complex software tasks.
+Alibaba&\#x27;s Qwen team has released Qwen3.8-2.4T, a massive open-weight mixture-of-experts model boasting 2.4 trillion total parameters and frontier-class capabilities.
 
-hackernews · explosion-s · 8月12日 16:04 · [社区讨论](https://news.ycombinator.com/item?id=49274600)
+hackernews · Philpax · 8月12日 15:01 · [社区讨论](https://news.ycombinator.com/item?id=49273478)
 
-**标签**: `#AI`, `#LLM`, `#DeepSeek`, `#Machine Learning`
-
----
-
-<a id="item-2"></a>
-## [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html) ⭐️ 8.0/10
-
-uBlock Origin has stopped attempting to filter Facebook ads due to complex technical countermeasures, highlighting a significant shift in the online ad-blocking landscape.
-
-hackernews · Markoff · 8月12日 11:28 · [社区讨论](https://news.ycombinator.com/item?id=49270726)
-
-**标签**: `#uBlock Origin`, `#Ad Blocking`, `#Web Security`, `#Facebook`, `#Privacy`
+**标签**: `#AI/ML`, `#LLM`, `#Open Source`, `#MoE`, `#Model Release`
 
 ---
