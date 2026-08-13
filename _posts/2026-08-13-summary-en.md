@@ -5,21 +5,14 @@ date: 2026-08-13
 lang: en
 ---
 
-> From 69 items, 1 important content pieces were selected
+> Analyzed 65 items, but none met the importance threshold.
 
----
+No significant developments today. This might indicate:
+- A quiet day in your tracked sources
+- The AI score threshold is too high
+- Your information sources need expansion
 
-1. [Qwen3.8-2.4T](#item-1) ⭐️ 9.0/10
-
----
-
-<a id="item-1"></a>
-## [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) ⭐️ 9.0/10
-
-Alibaba&\#x27;s Qwen team has released Qwen3.8-2.4T-A95B, a massive 2.4-trillion parameter Mixture-of-Experts \(MoE\) model capable of reaching frontier-level performance.
-
-hackernews · Philpax · Aug 12, 15:01 · [Discussion](https://news.ycombinator.com/item?id=49273478)
-
-**Tags**: `#Artificial Intelligence`, `#Machine Learning`, `#LLM`, `#Open Source`, `#Mixture of Experts`
-
----
+Consider:
+1. Lowering the `ai_score_threshold` in config.json
+2. Adding more diverse information sources
+3. Checking if the AI model is working correctly

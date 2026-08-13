@@ -5,21 +5,14 @@ date: 2026-08-13
 lang: zh
 ---
 
-> 从 69 条内容中筛选出 1 条重要资讯。
+> 已分析 65 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [Qwen3.8-2.4T](#item-1) ⭐️ 9.0/10
-
----
-
-<a id="item-1"></a>
-## [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) ⭐️ 9.0/10
-
-Alibaba&\#x27;s Qwen team has released Qwen3.8-2.4T-A95B, a massive 2.4-trillion parameter Mixture-of-Experts \(MoE\) model capable of reaching frontier-level performance.
-
-hackernews · Philpax · 8月12日 15:01 · [社区讨论](https://news.ycombinator.com/item?id=49273478)
-
-**标签**: `#Artificial Intelligence`, `#Machine Learning`, `#LLM`, `#Open Source`, `#Mixture of Experts`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
