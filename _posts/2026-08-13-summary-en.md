@@ -5,14 +5,21 @@ date: 2026-08-13
 lang: en
 ---
 
-> Analyzed 65 items, but none met the importance threshold.
+> From 67 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Spaghettifying DRAM](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 8.0/10
+
+This project demonstrates a low-level hardware exploitation technique where manipulating DRAM controller configurations allows ring 0 root users to bypass security boundaries into negative-ring execution spaces.
+
+hackernews · matt\_d · Aug 13, 14:17 · [Discussion](https://news.ycombinator.com/item?id=49286341)
+
+**Tags**: `#Hardware Security`, `#DRAM`, `#Vulnerability Research`, `#x86 Architecture`, `#Exploit Development`
+
+---
