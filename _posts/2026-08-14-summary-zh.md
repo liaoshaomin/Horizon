@@ -5,21 +5,21 @@ date: 2026-08-14
 lang: zh
 ---
 
-> 从 76 条内容中筛选出 1 条重要资讯。
+> 从 77 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [Choose Boring Technology \(2015\)](#item-1) ⭐️ 8.0/10
+1. [Gemini 3.7 Flash](#item-1) ⭐️ 9.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Choose Boring Technology \(2015\)](https://mcfunley.com/choose-boring-technology) ⭐️ 8.0/10
+## [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) ⭐️ 9.0/10
 
-Dan McKinley argues that teams should minimize technological novelty by choosing proven, &\#x27;boring&\#x27; technologies to preserve their limited &\#x27;innovation tokens&\#x27; for solving unique business problems.
+Google introduces Gemini 3.7 Flash, offering upgraded multimodal performance and reasoning capabilities at competitive pricing.
 
-hackernews · tosh · 8月13日 17:48 · [社区讨论](https://news.ycombinator.com/item?id=49289512)
+hackernews · thisisauserid · 8月13日 17:23 · [社区讨论](https://news.ycombinator.com/item?id=49289112)
 
-**标签**: `#Software Engineering`, `#System Architecture`, `#Engineering Management`, `#Tech Strategy`
+**标签**: `#AI`, `#Gemini`, `#LLM`, `#Google`, `#Machine Learning`
 
 ---
