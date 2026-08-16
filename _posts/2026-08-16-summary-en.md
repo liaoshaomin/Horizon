@@ -5,21 +5,21 @@ date: 2026-08-16
 lang: en
 ---
 
-> From 52 items, 1 important content pieces were selected
+> From 51 items, 1 important content pieces were selected
 
 ---
 
-1. [AI has access to a vastly larger working memory than the human brain](#item-1) ⭐️ 8.0/10
+1. [Semaglutide linked to lower predicted dementia risk](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) ⭐️ 8.0/10
+## [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) ⭐️ 8.0/10
 
-This discussion examines how AI&\#x27;s vastly larger working memory, context capacity, and lack of cognitive fatigue give it unique advantages over human mathematicians.
+A study suggests that semaglutide may be associated with a reduced predicted risk of dementia based on predictive biomarkers.
 
-hackernews · rzk · Aug 15, 18:13 · [Discussion](https://news.ycombinator.com/item?id=49312845)
+hackernews · randycupertino · Aug 15, 15:58 · [Discussion](https://news.ycombinator.com/item?id=49311651)
 
-**Tags**: `#Artificial Intelligence`, `#Cognitive Science`, `#Machine Learning`, `#Mathematics`
+**Tags**: `#Medicine`, `#Semaglutide`, `#Healthcare`, `#Dementia`, `#GLP-1`
 
 ---
