@@ -5,21 +5,14 @@ date: 2026-08-16
 lang: en
 ---
 
-> From 53 items, 1 important content pieces were selected
+> Analyzed 53 items, but none met the importance threshold.
 
----
+No significant developments today. This might indicate:
+- A quiet day in your tracked sources
+- The AI score threshold is too high
+- Your information sources need expansion
 
-1. [Claude: System Prompts](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) ⭐️ 8.0/10
-
-Anthropic has published official documentation of the system prompts used to steer Claude models, revealing internal safety guardrails and behavioral guidelines.
-
-hackernews · tosh · Aug 16, 12:48 · [Discussion](https://news.ycombinator.com/item?id=49319556)
-
-**Tags**: `#AI`, `#Anthropic`, `#Claude`, `#Prompt Engineering`, `#LLM`
-
----
+Consider:
+1. Lowering the `ai_score_threshold` in config.json
+2. Adding more diverse information sources
+3. Checking if the AI model is working correctly
