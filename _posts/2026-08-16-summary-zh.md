@@ -5,14 +5,21 @@ date: 2026-08-16
 lang: zh
 ---
 
-> 已分析 53 条内容，但没有达到重要性阈值的条目。
+> 从 54 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Semaglutide linked to lower predicted dementia risk](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) ⭐️ 8.0/10
+
+A research study links semaglutide to a lower predicted risk of dementia, driving active community debate on GLP-1 mechanism of action versus general weight loss benefits.
+
+hackernews · randycupertino · 8月15日 15:58 · [社区讨论](https://news.ycombinator.com/item?id=49311651)
+
+**标签**: `#Medicine`, `#GLP-1`, `#Semaglutide`, `#Dementia`, `#Biomedical Research`
+
+---
