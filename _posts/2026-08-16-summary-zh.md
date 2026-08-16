@@ -5,7 +5,7 @@ date: 2026-08-16
 lang: zh
 ---
 
-> 从 54 条内容中筛选出 1 条重要资讯。
+> 从 52 条内容中筛选出 1 条重要资讯。
 
 ---
 
@@ -16,10 +16,10 @@ lang: zh
 <a id="item-1"></a>
 ## [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) ⭐️ 8.0/10
 
-The post and community discussion highlight how AI&\#x27;s vast context window, tireless iteration, and capacity to store negative results give it distinct operational advantages over human cognition in complex fields like mathematics.
+This discussion examines how AI&\#x27;s vastly larger working memory, context capacity, and lack of cognitive fatigue give it unique advantages over human mathematicians.
 
 hackernews · rzk · 8月15日 18:13 · [社区讨论](https://news.ycombinator.com/item?id=49312845)
 
-**标签**: `#Artificial Intelligence`, `#Cognitive Science`, `#Mathematics`, `#Machine Learning`
+**标签**: `#Artificial Intelligence`, `#Cognitive Science`, `#Machine Learning`, `#Mathematics`
 
 ---
