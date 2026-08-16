@@ -16,10 +16,10 @@ lang: en
 <a id="item-1"></a>
 ## [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) ⭐️ 8.0/10
 
-A research study links semaglutide to a lower predicted risk of dementia, driving active community debate on GLP-1 mechanism of action versus general weight loss benefits.
+A new research study suggests that semaglutide \(a GLP-1 receptor agonist\) is associated with a reduced predicted risk of developing dementia.
 
 hackernews · randycupertino · Aug 15, 15:58 · [Discussion](https://news.ycombinator.com/item?id=49311651)
 
-**Tags**: `#Medicine`, `#GLP-1`, `#Semaglutide`, `#Dementia`, `#Biomedical Research`
+**Tags**: `#Medicine`, `#Dementia`, `#Semaglutide`, `#Neuroscience`, `#Public Health`
 
 ---
