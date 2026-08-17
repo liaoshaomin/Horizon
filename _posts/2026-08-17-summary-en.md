@@ -10,8 +10,8 @@ lang: en
 ---
 
 1. [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](#item-1) ⭐️ 8.0/10
-2. [Claude: System Prompts](#item-2) ⭐️ 8.0/10
-3. [The Life and Death of Direct File \[pdf\]](#item-3) ⭐️ 8.0/10
+2. [A third world engineer responds to “RISC-V: They should have known better”](#item-2) ⭐️ 8.0/10
+3. [Claude: System Prompts](#item-3) ⭐️ 8.0/10
 4. [The AI Credit Resale Economy](#item-4) ⭐️ 8.0/10
 
 ---
@@ -19,43 +19,43 @@ lang: en
 <a id="item-1"></a>
 ## [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) ⭐️ 8.0/10
 
-Simon Willison evaluates the newly released Qwen 3.8 27B open-weights model, praising its impressive local performance while noting its tendency toward excessive reasoning trace generation.
+Simon Willison reviews the newly released Qwen 3.8 27B local vision-capable model, praising its strong capabilities on consumer hardware while highlighting its tendency to over-reason on simple prompts.
 
 rss · Simon Willison · Aug 16, 22:00 · [Discussion](https://news.ycombinator.com/item?id=49324985)
 
-**Tags**: `#Artificial Intelligence`, `#Open Source LLMs`, `#Machine Learning`, `#Local AI`
+**Tags**: `#AI/ML`, `#LLMs`, `#Local Models`, `#Open Source AI`, `#Model Reasoning`
 
 ---
 
 <a id="item-2"></a>
-## [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) ⭐️ 8.0/10
+## [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/) ⭐️ 8.0/10
 
-Anthropic released official system prompts for their Claude models, detailing the instructions and safety guardrails that govern model responses.
+An embedded systems engineer responds to critiques of RISC-V by highlighting its accessibility and economic value for low-cost embedded hardware in developing regions.
 
-hackernews · tosh · Aug 16, 12:48 · [Discussion](https://news.ycombinator.com/item?id=49319556)
+hackernews · Narishma · Aug 16, 17:01 · [Discussion](https://news.ycombinator.com/item?id=49321717)
 
-**Tags**: `#AI`, `#Prompt Engineering`, `#Claude`, `#Anthropic`, `#LLMs`
+**Tags**: `#RISC-V`, `#Hardware Architecture`, `#Embedded Systems`, `#Computer Engineering`
 
 ---
 
 <a id="item-3"></a>
-## [The Life and Death of Direct File \[pdf\]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) ⭐️ 8.0/10
+## [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) ⭐️ 8.0/10
 
-A comprehensive post-mortem report analyzes the technical, political, and managerial dynamics behind the creation and eventual shutdown of the IRS Direct File project.
+Anthropic has made the official system prompts for its Claude models publicly available, detailing the internal instructions and behavioral constraints used by the AI.
 
-hackernews · ronbenton · Aug 17, 00:17 · [Discussion](https://news.ycombinator.com/item?id=49325185)
+hackernews · tosh · Aug 16, 12:48 · [Discussion](https://news.ycombinator.com/item?id=49319556)
 
-**Tags**: `#Government Tech`, `#Software Project Management`, `#Post-Mortem`, `#Public Sector`
+**Tags**: `#AI`, `#LLMs`, `#Prompt Engineering`, `#Anthropic`, `#Claude`
 
 ---
 
 <a id="item-4"></a>
 ## [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) ⭐️ 8.0/10
 
-An analysis of the growing secondary shadow economy where token brokers resell discounted AI platform credits through proxy APIs and relay networks.
+An analysis of the growing secondary market where brokers arbitrage, aggregate, and resell unused or promotional AI API credits via proxy relays.
 
 hackernews · mlenhard · Aug 16, 14:44 · [Discussion](https://news.ycombinator.com/item?id=49320611)
 
-**Tags**: `#AI Economics`, `#Cybersecurity`, `#LLMs`, `#API Management`, `#Tech Abuse`
+**Tags**: `#Artificial Intelligence`, `#API Economics`, `#Cybersecurity`, `#LLMs`, `#Tech Shadow Economy`
 
 ---
