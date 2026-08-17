@@ -5,33 +5,33 @@ date: 2026-08-17
 lang: en
 ---
 
-> From 56 items, 2 important content pieces were selected
+> From 57 items, 2 important content pieces were selected
 
 ---
 
 1. [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](#item-1) ⭐️ 9.0/10
-2. [The AI Credit Resale Economy](#item-2) ⭐️ 8.0/10
+2. [A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion) ⭐️ 9.0/10
 
-Stripe has reportedly reached a deal to acquire AI model aggregator and router OpenRouter for over $7 billion.
+Stripe is reportedly acquiring AI model routing platform OpenRouter in a deal valued at over $7 billion to expand its infrastructure capabilities into AI API orchestration.
 
 hackernews · zacharyozer · Aug 16, 20:31 · [Discussion](https://news.ycombinator.com/item?id=49323381)
 
-**Tags**: `#Artificial Intelligence`, `#Fintech`, `#Acquisitions`, `#APIs`, `#LLM Infrastructure`
+**Tags**: `#AI`, `#Stripe`, `#OpenRouter`, `#Acquisition`, `#Fintech`
 
 ---
 
 <a id="item-2"></a>
-## [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) ⭐️ 8.0/10
+## [A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;](https://rvembedded.com/blog_post/12/) ⭐️ 8.0/10
 
-An exploration of the shadow economy where brokers and automated systems resell promotional AI API credits through unauthorized relay services.
+An embedded systems engineer responds to critiques of RISC-V by highlighting its accessibility, cost advantages, and relevance in non-Western markets and embedded design.
 
-hackernews · mlenhard · Aug 16, 14:44 · [Discussion](https://news.ycombinator.com/item?id=49320611)
+hackernews · Narishma · Aug 16, 17:01 · [Discussion](https://news.ycombinator.com/item?id=49321717)
 
-**Tags**: `#AI`, `#Cybersecurity`, `#Cloud Computing`, `#LLM`, `#API Security`
+**Tags**: `#RISC-V`, `#Embedded Systems`, `#Hardware Architecture`, `#Computer Engineering`
 
 ---
