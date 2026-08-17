@@ -5,14 +5,21 @@ date: 2026-08-17
 lang: zh
 ---
 
-> 已分析 58 条内容，但没有达到重要性阈值的条目。
+> 从 61 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) ⭐️ 8.0/10
+
+Simon Willison reviews the Apache 2-licensed Qwen 3.8 27B model, praising its impressive local performance on consumer hardware while pointing out its tendency to overthink tasks due to modern RL training incentives.
+
+rss · Simon Willison · 8月16日 22:00 · [社区讨论](https://news.ycombinator.com/item?id=49324985)
+
+**标签**: `#LLM`, `#Open Source AI`, `#Qwen`, `#Local AI`
+
+---

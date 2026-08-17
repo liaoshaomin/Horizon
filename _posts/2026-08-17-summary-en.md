@@ -5,14 +5,21 @@ date: 2026-08-17
 lang: en
 ---
 
-> Analyzed 58 items, but none met the importance threshold.
+> From 61 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) ⭐️ 8.0/10
+
+Simon Willison reviews the Apache 2-licensed Qwen 3.8 27B model, praising its impressive local performance on consumer hardware while pointing out its tendency to overthink tasks due to modern RL training incentives.
+
+rss · Simon Willison · Aug 16, 22:00 · [Discussion](https://news.ycombinator.com/item?id=49324985)
+
+**Tags**: `#LLM`, `#Open Source AI`, `#Qwen`, `#Local AI`
+
+---
