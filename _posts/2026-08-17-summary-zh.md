@@ -5,21 +5,33 @@ date: 2026-08-17
 lang: zh
 ---
 
-> 从 56 条内容中筛选出 1 条重要资讯。
+> 从 56 条内容中筛选出 2 条重要资讯。
 
 ---
 
-1. [Claude: System Prompts](#item-1) ⭐️ 8.0/10
+1. [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](#item-1) ⭐️ 9.0/10
+2. [The AI Credit Resale Economy](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) ⭐️ 8.0/10
+## [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion) ⭐️ 9.0/10
 
-Anthropic published the official system prompts for Claude, triggering community analysis of prompt engineering patterns and version changes.
+Stripe has reportedly reached a deal to acquire AI model aggregator and router OpenRouter for over $7 billion.
 
-hackernews · tosh · 8月16日 12:48 · [社区讨论](https://news.ycombinator.com/item?id=49319556)
+hackernews · zacharyozer · 8月16日 20:31 · [社区讨论](https://news.ycombinator.com/item?id=49323381)
 
-**标签**: `#AI`, `#LLM`, `#Prompt Engineering`, `#Claude`, `#Anthropic`
+**标签**: `#Artificial Intelligence`, `#Fintech`, `#Acquisitions`, `#APIs`, `#LLM Infrastructure`
+
+---
+
+<a id="item-2"></a>
+## [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) ⭐️ 8.0/10
+
+An exploration of the shadow economy where brokers and automated systems resell promotional AI API credits through unauthorized relay services.
+
+hackernews · mlenhard · 8月16日 14:44 · [社区讨论](https://news.ycombinator.com/item?id=49320611)
+
+**标签**: `#AI`, `#Cybersecurity`, `#Cloud Computing`, `#LLM`, `#API Security`
 
 ---
