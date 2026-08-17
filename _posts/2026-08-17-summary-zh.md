@@ -5,21 +5,21 @@ date: 2026-08-17
 lang: zh
 ---
 
-> 从 61 条内容中筛选出 1 条重要资讯。
+> 从 60 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](#item-1) ⭐️ 8.0/10
+1. [Claude: System Prompts](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) ⭐️ 8.0/10
+## [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) ⭐️ 8.0/10
 
-Simon Willison reviews the Apache 2-licensed Qwen 3.8 27B model, praising its impressive local performance on consumer hardware while pointing out its tendency to overthink tasks due to modern RL training incentives.
+Anthropic has published official documentation detailing the system prompts used across different versions of their Claude AI models.
 
-rss · Simon Willison · 8月16日 22:00 · [社区讨论](https://news.ycombinator.com/item?id=49324985)
+hackernews · tosh · 8月16日 12:48 · [社区讨论](https://news.ycombinator.com/item?id=49319556)
 
-**标签**: `#LLM`, `#Open Source AI`, `#Qwen`, `#Local AI`
+**标签**: `#AI`, `#LLM`, `#Prompt Engineering`, `#Claude`, `#Anthropic`
 
 ---
