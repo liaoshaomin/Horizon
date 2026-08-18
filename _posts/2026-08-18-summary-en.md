@@ -5,33 +5,33 @@ date: 2026-08-18
 lang: en
 ---
 
-> From 72 items, 2 important content pieces were selected
+> From 73 items, 2 important content pieces were selected
 
 ---
 
-1. [How Bluesky draws its logo on screenshots](#item-1) ⭐️ 8.0/10
-2. [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&\#x27;s Jira](#item-2) ⭐️ 8.0/10
+1. [A Preview of DuckDB v2.0](#item-1) ⭐️ 9.0/10
+2. [Quake Shareware, a CD-ROM just a little too full](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) ⭐️ 8.0/10
+## [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) ⭐️ 9.0/10
 
-This article explores how Bluesky&\#x27;s mobile application detects screenshots and dynamically overlays its logo, triggering discussions on user control and mobile OS design.
+DuckDB introduces a preview of its upcoming v2.0 release, showcasing major enhancements and new capabilities for high-performance analytical data processing.
 
-hackernews · gavide · Aug 17, 22:20 · [Discussion](https://news.ycombinator.com/item?id=49338459)
+hackernews · ibotty · Aug 17, 13:46 · [Discussion](https://news.ycombinator.com/item?id=49330781)
 
-**Tags**: `#Mobile Development`, `#Bluesky`, `#User Experience`, `#Software Architecture`, `#Privacy`
+**Tags**: `#DuckDB`, `#Databases`, `#Data Analytics`, `#SQL`, `#Open Source`
 
 ---
 
 <a id="item-2"></a>
-## [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&\#x27;s Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) ⭐️ 8.0/10
+## [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) ⭐️ 8.0/10
 
-Security researchers at Wiz demonstrated how an AI-generated code suggestion via GitHub Copilot Autofix introduced a template injection vulnerability into Snowflake&\#x27;s public repository workflow.
+Fabien Sanglard explores the history and technical mechanics of id Software&\#x27;s Quake shareware CD-ROM, which contained the entire encrypted game unlocked via an early paywall scheme.
 
-hackernews · galnagli · Aug 17, 14:18 · [Discussion](https://news.ycombinator.com/item?id=49331423)
+hackernews · shdon · Aug 17, 22:06 · [Discussion](https://news.ycombinator.com/item?id=49338328)
 
-**Tags**: `#Cybersecurity`, `#AI Safety`, `#GitHub Actions`, `#DevOps`
+**Tags**: `#Game Development`, `#Retro Computing`, `#Software History`, `#DRM`
 
 ---
