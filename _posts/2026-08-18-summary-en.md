@@ -9,17 +9,17 @@ lang: en
 
 ---
 
-1. [Nvidia backing $105 billion in financing for OpenAI data center in Ohio](#item-1) ⭐️ 8.0/10
+1. [A Preview of DuckDB v2.0](#item-1) ⭐️ 9.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia backing $105 billion in financing for OpenAI data center in Ohio](https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html) ⭐️ 8.0/10
+## [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) ⭐️ 9.0/10
 
-Nvidia is backing $105 billion in financing for a massive new OpenAI data center project located in Ohio to address growing compute capacity demands.
+DuckDB previews its major v2.0 milestone, introducing new features such as Quack for improved agent-driven concurrent workflows and enhanced out-of-core data processing.
 
-rss · CNBC Top News · Aug 17, 21:22
+hackernews · ibotty · Aug 17, 13:46 · [Discussion](https://news.ycombinator.com/item?id=49330781)
 
-**Tags**: `#Nvidia`, `#OpenAI`, `#AI Infrastructure`, `#Data Centers`, `#Artificial Intelligence`
+**Tags**: `#DuckDB`, `#Databases`, `#Data Engineering`, `#SQL`, `#Analytics`
 
 ---
