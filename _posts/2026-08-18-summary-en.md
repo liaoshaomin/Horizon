@@ -5,14 +5,21 @@ date: 2026-08-18
 lang: en
 ---
 
-> Analyzed 76 items, but none met the importance threshold.
+> From 77 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [How Bluesky draws its logo on screenshots](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) ⭐️ 8.0/10
+
+This post examines how the Bluesky mobile app intercepts screenshot triggers to dynamically replace its compose button with the Bluesky logo for brand promotion.
+
+hackernews · gavide · Aug 17, 22:20 · [Discussion](https://news.ycombinator.com/item?id=49338459)
+
+**Tags**: `#Mobile Development`, `#UX Design`, `#Bluesky`, `#Software Architecture`
+
+---
