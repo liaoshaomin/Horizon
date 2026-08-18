@@ -5,21 +5,33 @@ date: 2026-08-18
 lang: en
 ---
 
-> From 68 items, 1 important content pieces were selected
+> From 71 items, 2 important content pieces were selected
 
 ---
 
-1. [Quake Shareware, a CD-ROM just a little too full](#item-1) ⭐️ 8.0/10
+1. [Linux 7.3 improves performance when running out of vRAM](#item-1) ⭐️ 8.0/10
+2. [Google buys crashed airline Spirit&\#x27;s data at auction](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) ⭐️ 8.0/10
+## [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) ⭐️ 8.0/10
 
-This article examines how id Software packed the full encrypted Quake game onto its shareware CD-ROM and how hackers quickly cracked the protection mechanism.
+An exploration of upcoming Linux kernel performance enhancements designed to handle vRAM exhaustion and overcommit more gracefully.
 
-hackernews · shdon · Aug 17, 22:06 · [Discussion](https://news.ycombinator.com/item?id=49338328)
+hackernews · flaburgan · Aug 18, 07:51 · [Discussion](https://news.ycombinator.com/item?id=49342719)
 
-**Tags**: `#Game Development`, `#Retro Computing`, `#Reverse Engineering`, `#Software History`
+**Tags**: `#Linux`, `#GPU`, `#Memory Management`, `#Performance`, `#Operating Systems`
+
+---
+
+<a id="item-2"></a>
+## [Google buys crashed airline Spirit&\#x27;s data at auction](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) ⭐️ 8.0/10
+
+Google has purchased millions of internal emails, Microsoft Teams records, and customer service logs from bankrupt Spirit Airlines at auction to utilize for AI development.
+
+hackernews · pseudolus · Aug 18, 10:13 · [Discussion](https://news.ycombinator.com/item?id=49343559)
+
+**Tags**: `#Artificial Intelligence`, `#Data Privacy`, `#Google`, `#Tech Law`
 
 ---
