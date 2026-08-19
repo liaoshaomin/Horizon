@@ -5,14 +5,21 @@ date: 2026-08-19
 lang: zh
 ---
 
-> 已分析 69 条内容，但没有达到重要性阈值的条目。
+> 从 69 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [GrapheneOS in 2027 available on high-end Motorola phones](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730) ⭐️ 8.0/10
+
+GrapheneOS plans to expand official support to high-end Motorola devices in 2027 as Motorola brings hardware security capabilities up to the required standards.
+
+hackernews · exceptione · 8月19日 11:46 · [社区讨论](https://news.ycombinator.com/item?id=49360242)
+
+**标签**: `#GrapheneOS`, `#Android`, `#Mobile Security`, `#Privacy`, `#Motorola`
+
+---
