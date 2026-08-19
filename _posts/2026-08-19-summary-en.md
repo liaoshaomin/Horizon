@@ -5,14 +5,21 @@ date: 2026-08-19
 lang: en
 ---
 
-> Analyzed 66 items, but none met the importance threshold.
+> From 66 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [The Amazon tax](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) ⭐️ 8.0/10
+
+The article and discussion explore how dominant platforms compel brands to pay for advertising on their own product searches, effectively imposing a digital rent-seeking tax on sellers.
+
+hackernews · herbertl · Aug 18, 13:22 · [Discussion](https://news.ycombinator.com/item?id=49345263)
+
+**Tags**: `#E-Commerce`, `#Digital Advertising`, `#Tech Economics`, `#Antitrust`, `#Amazon`
+
+---
