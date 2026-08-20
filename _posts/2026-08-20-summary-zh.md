@@ -5,33 +5,45 @@ date: 2026-08-20
 lang: zh
 ---
 
-> 从 69 条内容中筛选出 2 条重要资讯。
+> 从 65 条内容中筛选出 3 条重要资讯。
 
 ---
 
-1. [OpenRouter is joining Stripe](#item-1) ⭐️ 9.0/10
-2. [Google has stopped pushing Git tags for some Android source code](#item-2) ⭐️ 8.0/10
+1. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](#item-1) ⭐️ 8.0/10
+2. [Malicious Rust crate Arrayref runs a build-time payload](#item-2) ⭐️ 8.0/10
+3. [Show HN: I trained a 125M model to autocomplete piano on-device](#item-3) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) ⭐️ 9.0/10
+## [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) ⭐️ 8.0/10
 
-OpenRouter announced its acquisition by Stripe for over $7 billion, marking a significant consolidation in AI infrastructure and API routing.
+AliExpress utilizes silent WebAudio context initialization for tracking, which keeps audio streams active and disrupts Bluetooth multipoint and connected audio devices.
 
-hackernews · rvz · 8月19日 17:32 · [社区讨论](https://news.ycombinator.com/item?id=49364559)
+hackernews · emctech · 8月20日 10:08 · [社区讨论](https://news.ycombinator.com/item?id=49372583)
 
-**标签**: `#AI Infrastructure`, `#Acquisitions`, `#Stripe`, `#OpenRouter`, `#LLM API`
+**标签**: `#Privacy`, `#Fingerprinting`, `#WebAudio`, `#Bluetooth`, `#Security`
 
 ---
 
 <a id="item-2"></a>
-## [Google has stopped pushing Git tags for some Android source code](https://grapheneos.social/@GrapheneOS/117057099753905023) ⭐️ 8.0/10
+## [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) ⭐️ 8.0/10
 
-Google has stopped pushing Git tags and specific releases for Pixel kernel and userspace driver repositories to AOSP, creating hurdles for alternative Android operating systems.
+A supply chain attack compromised the popular Rust crate &\#x27;arrayref&\#x27; to execute malicious code during build time, triggering widespread discussion on package registry security and build script sandboxing.
 
-hackernews · Animux · 8月19日 17:47 · [社区讨论](https://news.ycombinator.com/item?id=49364745)
+hackernews · abhisek · 8月20日 13:23 · [社区讨论](https://news.ycombinator.com/item?id=49374269)
 
-**标签**: `#Android`, `#Open Source`, `#Google`, `#AOSP`, `#GrapheneOS`
+**标签**: `#Rust`, `#Security`, `#Supply Chain Security`, `#Cargo`, `#Open Source`
+
+---
+
+<a id="item-3"></a>
+## [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) ⭐️ 8.0/10
+
+A developer created a 125M-parameter transformer model that runs real-time MIDI piano completion directly on an iPhone.
+
+hackernews · simedw · 8月20日 12:04 · [社区讨论](https://news.ycombinator.com/item?id=49373456)
+
+**标签**: `#Machine Learning`, `#On-Device AI`, `#Music Technology`, `#Transformers`, `#Core ML`
 
 ---
