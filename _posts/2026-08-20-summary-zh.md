@@ -5,14 +5,21 @@ date: 2026-08-20
 lang: zh
 ---
 
-> 已分析 66 条内容，但没有达到重要性阈值的条目。
+> 从 71 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) ⭐️ 8.0/10
+
+AliExpress utilizes silent WebAudio API fingerprinting for user tracking, which inadvertently locks Bluetooth multipoint connections and degrades user audio experiences.
+
+hackernews · emctech · 8月20日 10:08 · [社区讨论](https://news.ycombinator.com/item?id=49372583)
+
+**标签**: `#Web Privacy`, `#Browser Security`, `#Fingerprinting`, `#Bluetooth`, `#WebAudio API`
+
+---
