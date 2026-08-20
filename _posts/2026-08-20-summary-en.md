@@ -5,21 +5,21 @@ date: 2026-08-20
 lang: en
 ---
 
-> From 71 items, 1 important content pieces were selected
+> From 69 items, 1 important content pieces were selected
 
 ---
 
-1. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](#item-1) ⭐️ 8.0/10
+1. [Linux 7.2](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) ⭐️ 8.0/10
+## [Linux 7.2](https://www.igalia.com/2026/08/19/Linux-72-Released.html) ⭐️ 8.0/10
 
-AliExpress utilizes silent WebAudio API fingerprinting for user tracking, which inadvertently locks Bluetooth multipoint connections and degrades user audio experiences.
+Igalia highlights key features, driver updates, and performance improvements in the Linux 7.2 kernel release.
 
-hackernews · emctech · Aug 20, 10:08 · [Discussion](https://news.ycombinator.com/item?id=49372583)
+hackernews · mariuz · Aug 20, 15:46 · [Discussion](https://news.ycombinator.com/item?id=49376265)
 
-**Tags**: `#Web Privacy`, `#Browser Security`, `#Fingerprinting`, `#Bluetooth`, `#WebAudio API`
+**Tags**: `#Linux`, `#Kernel`, `#Operating Systems`, `#Open Source`, `#Hardware Drivers`
 
 ---
