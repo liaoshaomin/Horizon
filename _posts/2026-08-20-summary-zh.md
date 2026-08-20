@@ -5,14 +5,33 @@ date: 2026-08-20
 lang: zh
 ---
 
-> 已分析 73 条内容，但没有达到重要性阈值的条目。
+> 从 74 条内容中筛选出 2 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [OpenRouter is joining Stripe](#item-1) ⭐️ 9.0/10
+2. [Google has stopped pushing Git tags for some Android source code](#item-2) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) ⭐️ 9.0/10
+
+AI model routing and aggregation platform OpenRouter has officially announced its acquisition by Stripe.
+
+hackernews · rvz · 8月19日 17:32 · [社区讨论](https://news.ycombinator.com/item?id=49364559)
+
+**标签**: `#AI Infrastructure`, `#Acquisitions`, `#OpenRouter`, `#Stripe`, `#LLM`
+
+---
+
+<a id="item-2"></a>
+## [Google has stopped pushing Git tags for some Android source code](https://grapheneos.social/@GrapheneOS/117057099753905023) ⭐️ 8.0/10
+
+Google has stopped pushing Git tags for Pixel-specific kernel and driver repositories to AOSP, creating friction for open-source downstream projects tracking code changes.
+
+hackernews · Animux · 8月19日 17:47 · [社区讨论](https://news.ycombinator.com/item?id=49364745)
+
+**标签**: `#Android`, `#Open Source`, `#Git`, `#Google`, `#GrapheneOS`
+
+---
