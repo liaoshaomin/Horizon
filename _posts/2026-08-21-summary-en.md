@@ -5,21 +5,21 @@ date: 2026-08-21
 lang: en
 ---
 
-> From 69 items, 1 important content pieces were selected
+> From 71 items, 1 important content pieces were selected
 
 ---
 
-1. [I accidentally logged phone calls to military bases](#item-1) ⭐️ 8.0/10
+1. [Felony charges for citizen deleting phone data at US Border](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [I accidentally logged phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) ⭐️ 8.0/10
+## [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) ⭐️ 8.0/10
 
-By registering expired e164.arpa DNS domains, the author uncovered a misconfiguration in legacy ENUM protocols that exposed real-time VoIP routing queries for high-profile targets, including military bases.
+A U.S. citizen faces felony charges after deleting data from his smartphone during a border inspection, raising major concerns about digital privacy rights and device security strategies.
 
-hackernews · gavide · Aug 21, 13:11 · [Discussion](https://news.ycombinator.com/item?id=49387570)
+hackernews · floathub · Aug 21, 12:10 · [Discussion](https://news.ycombinator.com/item?id=49386895)
 
-**Tags**: `#Security`, `#Telecommunications`, `#DNS`, `#VoIP`, `#Vulnerability Research`
+**Tags**: `#privacy`, `#cybersecurity`, `#digital-rights`, `#law`
 
 ---
