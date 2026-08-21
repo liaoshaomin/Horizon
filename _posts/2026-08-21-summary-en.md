@@ -9,29 +9,29 @@ lang: en
 
 ---
 
-1. [The August 17 outage](#item-1) ⭐️ 8.0/10
-2. [Malicious Rust crate Arrayref runs a build-time payload](#item-2) ⭐️ 8.0/10
+1. [Malicious Rust crate Arrayref runs a build-time payload](#item-1) ⭐️ 8.0/10
+2. [Show HN: Huzzah – a novel approach to coding with AI](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) ⭐️ 8.0/10
+## [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) ⭐️ 8.0/10
 
-GitHub released an outage post-mortem analyzing capacity failures that occurred following a rapid doubling of monthly commit volume on the platform.
+A supply chain attack compromised the popular Rust crate Arrayref to execute malicious payloads at build time via macro expansion.
 
-hackernews · 0xedb · Aug 20, 19:22 · [Discussion](https://news.ycombinator.com/item?id=49378957)
+hackernews · abhisek · Aug 20, 13:23 · [Discussion](https://news.ycombinator.com/item?id=49374269)
 
-**Tags**: `#GitHub`, `#Post-Mortem`, `#Distributed Systems`, `#Infrastructure`, `#System Reliability`
+**Tags**: `#rust`, `#security`, `#supply-chain`, `#crates-io`
 
 ---
 
 <a id="item-2"></a>
-## [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) ⭐️ 8.0/10
+## [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) ⭐️ 8.0/10
 
-A malicious Rust crate was discovered executing arbitrary code during the build process, raising supply chain security concerns across the Rust ecosystem.
+Huzzah is an experimental code editor designed to reduce AI prompt fatigue by allowing developers to write pseudocode that automatically synchronizes into full implementation code upon saving.
 
-hackernews · abhisek · Aug 20, 13:23 · [Discussion](https://news.ycombinator.com/item?id=49374269)
+hackernews · danielvaughn · Aug 20, 19:05 · [Discussion](https://news.ycombinator.com/item?id=49378768)
 
-**Tags**: `#Rust`, `#Security`, `#Supply Chain Attack`, `#Malware`, `#Open Source`
+**Tags**: `#AI`, `#Developer Tools`, `#User Experience`, `#Software Engineering`, `#Programming Languages`
 
 ---
