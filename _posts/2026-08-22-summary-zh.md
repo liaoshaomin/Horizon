@@ -5,14 +5,21 @@ date: 2026-08-22
 lang: zh
 ---
 
-> 已分析 71 条内容，但没有达到重要性阈值的条目。
+> 从 69 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Rust Glancer: Rust LSP using 100x less RAM](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) ⭐️ 8.0/10
+
+Rust Glancer is a new, highly memory-efficient Rust Language Server Protocol \(LSP\) implementation designed to drastically reduce resource consumption compared to traditional tools like rust-analyzer.
+
+hackernews · matklad · 8月21日 19:51 · [社区讨论](https://news.ycombinator.com/item?id=49393052)
+
+**标签**: `#rust`, `#lsp`, `#developer-tools`, `#performance-optimization`
+
+---
