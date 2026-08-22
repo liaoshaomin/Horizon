@@ -16,10 +16,10 @@ lang: zh
 <a id="item-1"></a>
 ## [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) ⭐️ 8.0/10
 
-Scientists have released the largest 2D map of the universe to date, made accessible through the interactive Legacy Survey Sky Viewer tool.
+Scientists have released the largest 2D map of the universe to date, accessible through an interactive sky viewer.
 
 hackernews · NKosmatos · 8月21日 18:36 · [社区讨论](https://news.ycombinator.com/item?id=49392200)
 
-**标签**: `#Astronomy`, `#Astrophysics`, `#Data Visualization`, `#Open Data`
+**标签**: `#astronomy`, `#astrophysics`, `#data-visualization`, `#science`, `#open-data`
 
 ---
