@@ -5,14 +5,21 @@ date: 2026-08-23
 lang: en
 ---
 
-> Analyzed 52 items, but none met the importance threshold.
+> From 48 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [How Complex Systems Fail \(1998\)](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [How Complex Systems Fail \(1998\)](https://how.complexsystems.fail/) ⭐️ 8.0/10
+
+Richard Cook&\#x27;s classic 1998 paper outlines 18 key observations on how complex systems operate, degrade, and experience catastrophic failures.
+
+hackernews · shortcrct · Aug 23, 15:13 · [Discussion](https://news.ycombinator.com/item?id=49409473)
+
+**Tags**: `#Systems Engineering`, `#Resilience Engineering`, `#SRE`, `#Distributed Systems`, `#Reliability`
+
+---

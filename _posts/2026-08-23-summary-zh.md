@@ -5,14 +5,21 @@ date: 2026-08-23
 lang: zh
 ---
 
-> 已分析 52 条内容，但没有达到重要性阈值的条目。
+> 从 48 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [How Complex Systems Fail \(1998\)](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [How Complex Systems Fail \(1998\)](https://how.complexsystems.fail/) ⭐️ 8.0/10
+
+Richard Cook&\#x27;s classic 1998 paper outlines 18 key observations on how complex systems operate, degrade, and experience catastrophic failures.
+
+hackernews · shortcrct · 8月23日 15:13 · [社区讨论](https://news.ycombinator.com/item?id=49409473)
+
+**标签**: `#Systems Engineering`, `#Resilience Engineering`, `#SRE`, `#Distributed Systems`, `#Reliability`
+
+---
