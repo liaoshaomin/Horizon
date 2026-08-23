@@ -5,21 +5,14 @@ date: 2026-08-23
 lang: zh
 ---
 
-> 从 50 条内容中筛选出 1 条重要资讯。
+> 已分析 52 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) ⭐️ 8.0/10
-
-The author detailed how they leveraged several AI models, costing $266 in API credits, to discover unpatched vulnerabilities and successfully root an Amazon Fire HD tablet.
-
-hackernews · dr\_pardee · 8月23日 14:23 · [社区讨论](https://news.ycombinator.com/item?id=49409073)
-
-**标签**: `#Cybersecurity`, `#Artificial Intelligence`, `#LLMs`, `#Hardware Hacking`, `#Reverse Engineering`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
