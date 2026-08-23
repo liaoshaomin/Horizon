@@ -5,21 +5,14 @@ date: 2026-08-23
 lang: zh
 ---
 
-> 从 56 条内容中筛选出 1 条重要资讯。
+> 已分析 56 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [Why your local LLM feels dumber than it is](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) ⭐️ 8.0/10
-
-This discussion explores common configuration and deployment mistakes that cause locally run LLMs to perform below their potential, from incorrect sampling settings to hardware-specific bottlenecks.
-
-hackernews · felineflock · 8月22日 18:14 · [社区讨论](https://news.ycombinator.com/item?id=49402232)
-
-**标签**: `#Local LLMs`, `#AI Inference`, `#Quantization`, `#Machine Learning`, `#LLM Benchmarks`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
