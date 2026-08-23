@@ -5,21 +5,21 @@ date: 2026-08-23
 lang: zh
 ---
 
-> 从 47 条内容中筛选出 1 条重要资讯。
+> 从 50 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](#item-1) ⭐️ 8.0/10
+1. [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) ⭐️ 8.0/10
+## [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) ⭐️ 8.0/10
 
-An analysis showing how the Qwen 3.8 27B model autonomously reverse-engineered a commercial application&\#x27;s license check by detecting its own errors and self-correcting until obtaining a byte-for-byte match.
+The author detailed how they leveraged several AI models, costing $266 in API credits, to discover unpatched vulnerabilities and successfully root an Amazon Fire HD tablet.
 
-hackernews · raybb · 8月23日 10:02 · [社区讨论](https://news.ycombinator.com/item?id=49407507)
+hackernews · dr\_pardee · 8月23日 14:23 · [社区讨论](https://news.ycombinator.com/item?id=49409073)
 
-**标签**: `#Artificial Intelligence`, `#Large Language Models`, `#Reverse Engineering`, `#Software Engineering`
+**标签**: `#Cybersecurity`, `#Artificial Intelligence`, `#LLMs`, `#Hardware Hacking`, `#Reverse Engineering`
 
 ---
