@@ -5,69 +5,57 @@ date: 2026-08-24
 lang: zh
 ---
 
-> 从 55 条内容中筛选出 5 条重要资讯。
+> 从 55 条内容中筛选出 4 条重要资讯。
 
 ---
 
 1. [Everything I own, owned](#item-1) ⭐️ 8.0/10
 2. [How I find problems to solve as a staff engineer](#item-2) ⭐️ 8.0/10
-3. [What Is a Harness?](#item-3) ⭐️ 8.0/10
-4. [How Complex Systems Fail \(1998\)](#item-4) ⭐️ 8.0/10
-5. [Malware infects Android-based automotive head unit firmware](#item-5) ⭐️ 8.0/10
+3. [My agent.md to improve LLM-assisted code quality](#item-3) ⭐️ 8.0/10
+4. [What Is a Harness?](#item-4) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) ⭐️ 8.0/10
 
-The author details their journey reverse-engineering and modifying the firmware and drivers of various personal electronic devices to gain full control over their hardware.
+The author explores reverse engineering and modifying the firmware of various personal hardware devices to eliminate unwanted features and regain full control.
 
 hackernews · schlarpc · 8月23日 22:41 · [社区讨论](https://news.ycombinator.com/item?id=49413320)
 
-**标签**: `#Reverse Engineering`, `#Hardware`, `#Firmware`, `#Embedded Systems`, `#Hackers`
+**标签**: `#Reverse Engineering`, `#Firmware`, `#Hardware Hacking`, `#Embedded Systems`, `#IoT`
 
 ---
 
 <a id="item-2"></a>
 ## [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) ⭐️ 8.0/10
 
-A staff engineer outlines practical strategies for identifying and prioritizing impactful technical problems within large-scale developer infrastructure teams.
+A Staff Engineer shares strategies for identifying and prioritizing high-impact problems to solve in large tech organizations with bottom-up autonomy.
 
 hackernews · vanpra · 8月23日 19:23 · [社区讨论](https://news.ycombinator.com/item?id=49411643)
 
-**标签**: `#software-engineering`, `#career-development`, `#engineering-leadership`, `#tech-industry`
+**标签**: `#Software Engineering`, `#Career Development`, `#Engineering Leadership`, `#Staff Engineer`
 
 ---
 
 <a id="item-3"></a>
-## [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) ⭐️ 8.0/10
+## [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) ⭐️ 8.0/10
 
-An post defining the concept of an AI agent &\#x27;harness&\#x27; and its role in connecting LLMs to tools, accompanied by a rich Hacker News discussion on practical implementations.
+Fabien Sanglard shares his custom agent.md file used to enforce strict coding standards, readability, and structural guidelines when working with LLM programming assistants.
 
-hackernews · tosh · 8月23日 14:24 · [社区讨论](https://news.ycombinator.com/item?id=49409092)
+hackernews · ibobev · 8月23日 17:59 · [社区讨论](https://news.ycombinator.com/item?id=49410932)
 
-**标签**: `#AI Agents`, `#LLMs`, `#Software Architecture`, `#System Design`
+**标签**: `#AI`, `#LLM`, `#Software Engineering`, `#Prompt Engineering`, `#Developer Tools`
 
 ---
 
 <a id="item-4"></a>
-## [How Complex Systems Fail \(1998\)](https://how.complexsystems.fail/) ⭐️ 8.0/10
+## [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) ⭐️ 8.0/10
 
-Richard Cook&\#x27;s classic paper outlines fundamental principles of system safety, demonstrating how complex systems inherently operate in degraded states and fail through intricate combinations of multiple minor flaws rather than a single root cause.
+The post and accompanying discussion explore the conceptual and practical definition of a &\#x27;harness&\#x27; in modern software development and AI agent architecture.
 
-hackernews · shortcrct · 8月23日 15:13 · [社区讨论](https://news.ycombinator.com/item?id=49409473)
+hackernews · tosh · 8月23日 14:24 · [社区讨论](https://news.ycombinator.com/item?id=49409092)
 
-**标签**: `#Systems Engineering`, `#Reliability`, `#Incident Response`, `#Chaos Engineering`, `#Software Architecture`
-
----
-
-<a id="item-5"></a>
-## [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) ⭐️ 8.0/10
-
-Cybersecurity researchers discovered malware distributed through official firmware updates on cheap aftermarket Android head units, raising concerns over automotive supply chain security.
-
-hackernews · campuscodi · 8月23日 13:05 · [社区讨论](https://news.ycombinator.com/item?id=49408550)
-
-**标签**: `#Cybersecurity`, `#Android`, `#Automotive`, `#Malware`, `#Supply Chain Security`
+**标签**: `#AI Agents`, `#LLM Tooling`, `#Software Engineering`, `#Developer Tools`
 
 ---
