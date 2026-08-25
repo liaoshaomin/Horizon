@@ -5,21 +5,33 @@ date: 2026-08-25
 lang: en
 ---
 
-> From 67 items, 1 important content pieces were selected
+> From 69 items, 2 important content pieces were selected
 
 ---
 
-1. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](#item-1) ⭐️ 8.0/10
+1. [How Europe is killing makers and micro-entrepreneurs](#item-1) ⭐️ 8.0/10
+2. [Moon \(2024\)](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 8.0/10
+## [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) ⭐️ 8.0/10
 
-Reverse-engineering reveals that Microsoft Paint and Photos silently embed an invisible watermark containing a unique GUID into images processed with AI tools, raising significant privacy and tracking concerns.
+The article critiques complex EU packaging and compliance regulations for disproportionately harming hardware makers and micro-entrepreneurs, sparking a widespread debate on European business policy.
 
-hackernews · ComputerGuru · Aug 24, 15:28 · [Discussion](https://news.ycombinator.com/item?id=49421158)
+hackernews · l-one-lone · Aug 24, 13:05 · [Discussion](https://news.ycombinator.com/item?id=49419237)
 
-**Tags**: `#Privacy`, `#Security`, `#Microsoft`, `#Watermarking`, `#Reverse Engineering`
+**Tags**: `#EU Regulation`, `#Hardware`, `#Micro-entrepreneurship`, `#Tech Policy`
+
+---
+
+<a id="item-2"></a>
+## [Moon \(2024\)](https://ciechanow.ski/moon/) ⭐️ 8.0/10
+
+An extraordinarily detailed, interactive visual deep-dive exploring the motion, orbit, phases, and physical properties of the Moon.
+
+hackernews · simonebrunozzi · Aug 24, 22:06 · [Discussion](https://news.ycombinator.com/item?id=49426466)
+
+**Tags**: `#interactive-graphics`, `#astronomy`, `#visualization`, `#web-development`, `#education`
 
 ---
