@@ -5,14 +5,21 @@ date: 2026-08-25
 lang: en
 ---
 
-> Analyzed 71 items, but none met the importance threshold.
+> From 68 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 8.0/10
+
+Microsoft Paint and Photos silently embed invisible GUID watermarks into images created or edited using local AI features, sparking serious privacy concerns.
+
+hackernews · ComputerGuru · Aug 24, 15:28 · [Discussion](https://news.ycombinator.com/item?id=49421158)
+
+**Tags**: `#Privacy`, `#Microsoft`, `#Watermarking`, `#AI`, `#Cybersecurity`
+
+---
