@@ -5,21 +5,21 @@ date: 2026-08-25
 lang: zh
 ---
 
-> 从 70 条内容中筛选出 1 条重要资讯。
+> 从 72 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [How Europe is killing makers and micro-entrepreneurs](#item-1) ⭐️ 8.0/10
+1. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) ⭐️ 8.0/10
+## [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 8.0/10
 
-The article explores how complex EU compliance and packaging regulations burden small hardware makers and micro-entrepreneurs, sparking broad debate on European regulatory policy and implementation.
+Reverse engineering shows that Microsoft Paint and Photos invisibly embed a non-disablable watermark containing a GUID into images processed using local AI features.
 
-hackernews · l-one-lone · 8月24日 13:05 · [社区讨论](https://news.ycombinator.com/item?id=49419237)
+hackernews · ComputerGuru · 8月24日 15:28 · [社区讨论](https://news.ycombinator.com/item?id=49421158)
 
-**标签**: `#eu-policy`, `#hardware`, `#regulation`, `#entrepreneurship`, `#maker-movement`
+**标签**: `#Privacy`, `#Security`, `#Reverse Engineering`, `#Windows`, `#Artificial Intelligence`
 
 ---
