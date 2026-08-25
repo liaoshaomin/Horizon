@@ -9,17 +9,17 @@ lang: zh
 
 ---
 
-1. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](#item-1) ⭐️ 8.0/10
+1. [Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](#item-1) ⭐️ 9.0/10
 
 ---
 
 <a id="item-1"></a>
-## [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 8.0/10
+## [Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) ⭐️ 9.0/10
 
-Microsoft Paint and Photos silently embed invisible GUID watermarks into images created or edited using local AI features, sparking serious privacy concerns.
+Apple has announced its new M6 and M5 Ultra chips, featuring major performance gains and expanded AI compute capabilities.
 
-hackernews · ComputerGuru · 8月24日 15:28 · [社区讨论](https://news.ycombinator.com/item?id=49421158)
+hackernews · interpol\_p · 8月25日 13:01 · [社区讨论](https://news.ycombinator.com/item?id=49433292)
 
-**标签**: `#Privacy`, `#Microsoft`, `#Watermarking`, `#AI`, `#Cybersecurity`
+**标签**: `#Apple Silicon`, `#Hardware`, `#AI Compute`, `#Semiconductors`, `#Tech Announcement`
 
 ---
