@@ -5,7 +5,7 @@ date: 2026-08-25
 lang: en
 ---
 
-> From 68 items, 1 important content pieces were selected
+> From 67 items, 1 important content pieces were selected
 
 ---
 
@@ -16,10 +16,10 @@ lang: en
 <a id="item-1"></a>
 ## [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 8.0/10
 
-Reverse engineering reveals that Microsoft Paint and Photos silently embed invisible watermarks with unique identifiers into image outputs edited or created using AI tools, even when run locally.
+Reverse-engineering reveals that Microsoft Paint and Photos silently embed an invisible watermark containing a unique GUID into images processed with AI tools, raising significant privacy and tracking concerns.
 
 hackernews · ComputerGuru · Aug 24, 15:28 · [Discussion](https://news.ycombinator.com/item?id=49421158)
 
-**Tags**: `#Privacy`, `#Security`, `#Reverse Engineering`, `#Microsoft`, `#Artificial Intelligence`
+**Tags**: `#Privacy`, `#Security`, `#Microsoft`, `#Watermarking`, `#Reverse Engineering`
 
 ---
