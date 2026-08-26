@@ -5,14 +5,21 @@ date: 2026-08-26
 lang: en
 ---
 
-> Analyzed 74 items, but none met the importance threshold.
+> From 66 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [vllm-project/vllm released v0.28.0](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [vllm-project/vllm released v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0) ⭐️ 8.0/10
+
+vLLM version 0.28.0 introduces extensive performance optimizations for Kimi-K3, end-to-end sparse MLA support for DeepSeek V4, and improved GPU memory usage.
+
+github · khluu · Aug 26, 09:46
+
+**Tags**: `#vLLM`, `#LLM Inference`, `#Machine Learning`, `#DeepSeek`, `#GPU Optimization`
+
+---

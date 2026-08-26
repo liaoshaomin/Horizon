@@ -5,14 +5,21 @@ date: 2026-08-26
 lang: zh
 ---
 
-> 已分析 74 条内容，但没有达到重要性阈值的条目。
+> 从 66 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [vllm-project/vllm released v0.28.0](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [vllm-project/vllm released v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0) ⭐️ 8.0/10
+
+vLLM version 0.28.0 introduces extensive performance optimizations for Kimi-K3, end-to-end sparse MLA support for DeepSeek V4, and improved GPU memory usage.
+
+github · khluu · 8月26日 09:46
+
+**标签**: `#vLLM`, `#LLM Inference`, `#Machine Learning`, `#DeepSeek`, `#GPU Optimization`
+
+---
