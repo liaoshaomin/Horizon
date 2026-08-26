@@ -5,33 +5,14 @@ date: 2026-08-26
 lang: zh
 ---
 
-> 从 69 条内容中筛选出 2 条重要资讯。
+> 已分析 72 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](#item-1) ⭐️ 8.0/10
-2. [New Mac Studio with M5 Max and M5 Ultra](#item-2) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) ⭐️ 8.0/10
-
-The FDA has authorized the first continuous wearable sensor capable of tracking both ketone and blood sugar levels simultaneously.
-
-hackernews · sunnynagra · 8月25日 19:07 · [社区讨论](https://news.ycombinator.com/item?id=49439017)
-
-**标签**: `#Healthtech`, `#Biotechnology`, `#FDA`, `#Wearable Tech`, `#Medical Devices`
-
----
-
-<a id="item-2"></a>
-## [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) ⭐️ 8.0/10
-
-Apple has announced its new Mac Studio equipped with M5 Max and M5 Ultra chips, featuring up to 1.2 TB/s memory bandwidth geared towards local AI and demanding pro workflows.
-
-hackernews · interpol\_p · 8月25日 13:03 · [社区讨论](https://news.ycombinator.com/item?id=49433316)
-
-**标签**: `#Apple`, `#Hardware`, `#Mac Studio`, `#Local AI`, `#Silicon`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作

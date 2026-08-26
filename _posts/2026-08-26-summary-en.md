@@ -5,33 +5,14 @@ date: 2026-08-26
 lang: en
 ---
 
-> From 69 items, 2 important content pieces were selected
+> Analyzed 72 items, but none met the importance threshold.
 
----
+No significant developments today. This might indicate:
+- A quiet day in your tracked sources
+- The AI score threshold is too high
+- Your information sources need expansion
 
-1. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](#item-1) ⭐️ 8.0/10
-2. [New Mac Studio with M5 Max and M5 Ultra](#item-2) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) ⭐️ 8.0/10
-
-The FDA has authorized the first continuous wearable sensor capable of tracking both ketone and blood sugar levels simultaneously.
-
-hackernews · sunnynagra · Aug 25, 19:07 · [Discussion](https://news.ycombinator.com/item?id=49439017)
-
-**Tags**: `#Healthtech`, `#Biotechnology`, `#FDA`, `#Wearable Tech`, `#Medical Devices`
-
----
-
-<a id="item-2"></a>
-## [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) ⭐️ 8.0/10
-
-Apple has announced its new Mac Studio equipped with M5 Max and M5 Ultra chips, featuring up to 1.2 TB/s memory bandwidth geared towards local AI and demanding pro workflows.
-
-hackernews · interpol\_p · Aug 25, 13:03 · [Discussion](https://news.ycombinator.com/item?id=49433316)
-
-**Tags**: `#Apple`, `#Hardware`, `#Mac Studio`, `#Local AI`, `#Silicon`
-
----
+Consider:
+1. Lowering the `ai_score_threshold` in config.json
+2. Adding more diverse information sources
+3. Checking if the AI model is working correctly
