@@ -5,21 +5,33 @@ date: 2026-08-26
 lang: en
 ---
 
-> From 75 items, 1 important content pieces were selected
+> From 76 items, 2 important content pieces were selected
 
 ---
 
-1. [vllm-project/vllm released v0.28.0](#item-1) ⭐️ 8.0/10
+1. [Apple introduces M6 and M5 Ultra](#item-1) ⭐️ 9.0/10
+2. [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [vllm-project/vllm released v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0) ⭐️ 8.0/10
+## [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) ⭐️ 9.0/10
 
-vLLM version 0.28.0 introduces major performance enhancements for Kimi-K3, end-to-end sparse MLA support for DeepSeek V4, and memory optimization features across 584 commits.
+Apple has officially announced its next-generation M6 and M5 Ultra chips, delivering a major leap in overall performance and local AI processing power.
 
-github · khluu · Aug 26, 09:46
+hackernews · interpol\_p · Aug 25, 13:01 · [Discussion](https://news.ycombinator.com/item?id=49433292)
 
-**Tags**: `#AI/ML`, `#LLM Inference`, `#Open Source`, `#vLLM`, `#Performance Optimization`
+**Tags**: `#Apple Silicon`, `#Hardware`, `#Artificial Intelligence`, `#Processors`, `#Tech News`
+
+---
+
+<a id="item-2"></a>
+## [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) ⭐️ 8.0/10
+
+Z.ai has announced that its stealth model, Ox Alpha, is part of the GLM series and will have its weights released publicly.
+
+hackernews · garo-pro · Aug 26, 10:04 · [Discussion](https://news.ycombinator.com/item?id=49446422)
+
+**Tags**: `#Artificial Intelligence`, `#Large Language Models`, `#Open Source`, `#Machine Learning`
 
 ---
