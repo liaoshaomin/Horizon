@@ -5,69 +5,45 @@ date: 2026-08-27
 lang: zh
 ---
 
-> 从 77 条内容中筛选出 5 条重要资讯。
+> 从 67 条内容中筛选出 3 条重要资讯。
 
 ---
 
-1. [Nvidia agrees to acquire Hugging Face for $13B](#item-1) ⭐️ 9.0/10
-2. [Mechanical Turk shutting down September 30](#item-2) ⭐️ 8.0/10
-3. [GLM-5.3-Flash](#item-3) ⭐️ 8.0/10
-4. [Asahi Linux Progress Report: Linux 7.2](#item-4) ⭐️ 8.0/10
-5. [Tailcat – Like netcat, but over Tailscale’s data plane](#item-5) ⭐️ 8.0/10
+1. [Saving 100 terabytes of memory by optimizing 1.1.1.1&\#x27;s DNS cache](#item-1) ⭐️ 8.0/10
+2. [Small Models Have Arrived](#item-2) ⭐️ 8.0/10
+3. [Microduck](#item-3) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) ⭐️ 9.0/10
+## [Saving 100 terabytes of memory by optimizing 1.1.1.1&\#x27;s DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) ⭐️ 8.0/10
 
-Nvidia has reportedly agreed to acquire open-source model repository and AI infrastructure platform Hugging Face for $13 billion.
+Cloudflare details how optimizing the data structures and memory allocation of 1.1.1.1&\#x27;s DNS cache saved 100 terabytes of RAM across its global edge network.
 
-hackernews · mfiguiere · 8月27日 01:12 · [社区讨论](https://news.ycombinator.com/item?id=49458161)
+hackernews · TangerineDream · 8月27日 17:17 · [社区讨论](https://news.ycombinator.com/item?id=49468083)
 
-**标签**: `#AI/ML`, `#Nvidia`, `#Hugging Face`, `#Acquisitions`, `#Open Source`
+**标签**: `#Systems Programming`, `#Memory Management`, `#Performance Optimization`, `#DNS`, `#Networking`
 
 ---
 
 <a id="item-2"></a>
-## [Mechanical Turk shutting down September 30](https://www.mturk.com/) ⭐️ 8.0/10
+## [Small Models Have Arrived](https://calv.info/small-models-have-arrived) ⭐️ 8.0/10
 
-Amazon is shutting down Mechanical Turk on September 30, bringing an end to the pioneering platform widely used for crowdsourced human tasks and AI data annotation.
+The article highlights the growing trend and practical viability of using small, fast, and inexpensive language models for specialized developer tasks rather than relying exclusively on massive frontier models.
 
-hackernews · tmp10423288442 · 8月26日 23:55 · [社区讨论](https://news.ycombinator.com/item?id=49457545)
+hackernews · tosh · 8月27日 15:56 · [社区讨论](https://news.ycombinator.com/item?id=49466917)
 
-**标签**: `#Amazon`, `#Crowdsourcing`, `#Artificial Intelligence`, `#Tech History`
+**标签**: `#Artificial Intelligence`, `#LLMs`, `#Machine Learning`, `#Developer Tools`
 
 ---
 
 <a id="item-3"></a>
-## [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) ⭐️ 8.0/10
+## [Microduck](https://pollen-robotics.com/microduck/) ⭐️ 8.0/10
 
-Z.ai has released GLM-5.3-Flash, offering open weights and a major leap in LLM cost-efficiency by achieving high benchmark performance at a fraction of previous serving costs.
+Microduck by Pollen Robotics is a small, accessible humanoid robot featuring an onboard policy loop and local/cloud training pipeline using ONNX models.
 
-hackernews · Philpax · 8月26日 14:08 · [社区讨论](https://news.ycombinator.com/item?id=49449507)
+hackernews · robotswantdata · 8月27日 10:57 · [社区讨论](https://news.ycombinator.com/item?id=49462763)
 
-**标签**: `#Artificial Intelligence`, `#Large Language Models`, `#Machine Learning`, `#Open Source`, `#AI Benchmarks`
-
----
-
-<a id="item-4"></a>
-## [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) ⭐️ 8.0/10
-
-The latest Asahi Linux progress report details reverse-engineering breakthroughs that bring SPMI, USB 3.0, and Thunderbolt support to M3 series Apple Silicon devices.
-
-hackernews · pizzaiolo · 8月26日 22:35 · [社区讨论](https://news.ycombinator.com/item?id=49456851)
-
-**标签**: `#Linux`, `#Asahi Linux`, `#Apple Silicon`, `#Reverse Engineering`, `#Hardware`
-
----
-
-<a id="item-5"></a>
-## [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) ⭐️ 8.0/10
-
-Tailcat is a networking utility created by Tailscale that enables netcat-like data transfer and stream piping directly across Tailscale&\#x27;s secure data plane.
-
-hackernews · nderjung · 8月26日 17:42 · [社区讨论](https://news.ycombinator.com/item?id=49452990)
-
-**标签**: `#Networking`, `#Tailscale`, `#Peer-to-Peer`, `#DevOps`, `#Open Source`
+**标签**: `#Robotics`, `#Reinforcement Learning`, `#Hardware`, `#Open Source`, `#Artificial Intelligence`
 
 ---
