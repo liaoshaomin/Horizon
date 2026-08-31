@@ -5,14 +5,21 @@ date: 2026-08-31
 lang: en
 ---
 
-> Analyzed 57 items, but none met the importance threshold.
+> From 59 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Understanding ChatGPT Work](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) ⭐️ 8.0/10
+
+Simon Willison breaks down the dual cloud and desktop architectures of ChatGPT Work while highlighting critical security risks inherent in tool-using AI agents.
+
+rss · Simon Willison · Aug 30, 23:59 · [Discussion](https://news.ycombinator.com/item?id=49504625)
+
+**Tags**: `#AI Agents`, `#LLM Security`, `#OpenAI`, `#ChatGPT`, `#Artificial Intelligence`
+
+---
