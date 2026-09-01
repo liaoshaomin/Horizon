@@ -5,33 +5,33 @@ date: 2026-09-01
 lang: en
 ---
 
-> From 67 items, 2 important content pieces were selected
+> From 69 items, 2 important content pieces were selected
 
 ---
 
-1. [I trained a small transformer in 1.5hrs and it beats many LLMs](#item-1) ⭐️ 8.0/10
-2. [Fastpotify](#item-2) ⭐️ 8.0/10
+1. [How accurate have Ed Zitron&\#x27;s AI skeptic predictions been?](#item-1) ⭐️ 8.0/10
+2. [I trained a small transformer in 1.5hrs and it beats many LLMs](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) ⭐️ 8.0/10
+## [How accurate have Ed Zitron&\#x27;s AI skeptic predictions been?](https://danluu.com/zitron/) ⭐️ 8.0/10
 
-The author demonstrates a small autoregressive transformer trained from scratch in 1.5 hours that achieves top results on the Abstraction and Reasoning Corpus \(ARC\) benchmark.
+Dan Luu systematically evaluates the accuracy of AI skeptic Ed Zitron&\#x27;s predictions against literal evidence and real-world outcomes.
 
-hackernews · porridgeraisin · Sep 1, 09:52 · [Discussion](https://news.ycombinator.com/item?id=49519939)
+hackernews · jatins · Sep 1, 18:35 · [Discussion](https://news.ycombinator.com/item?id=49526069)
 
-**Tags**: `#Machine Learning`, `#Transformers`, `#ARC Benchmark`, `#AI Research`
+**Tags**: `#Artificial Intelligence`, `#Tech Industry`, `#Analysis`, `#Skepticism`, `#Predictions`
 
 ---
 
 <a id="item-2"></a>
-## [Fastpotify](https://fastpotify.rocks/) ⭐️ 8.0/10
+## [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) ⭐️ 8.0/10
 
-Fastpotify is a fast, lightweight third-party Spotify client supporting classic Winamp skins, driving community discussion around app bloat and self-hosted music solutions.
+The author demonstrates how a small autoregressive transformer trained from scratch in under two hours can achieve competitive performance on the ARC benchmark without relying on massive LLM compute.
 
-hackernews · nreece · Sep 1, 02:52 · [Discussion](https://news.ycombinator.com/item?id=49517448)
+hackernews · porridgeraisin · Sep 1, 09:52 · [Discussion](https://news.ycombinator.com/item?id=49519939)
 
-**Tags**: `#Spotify`, `#Open Source`, `#Audio Streaming`, `#UI/UX`, `#Self-Hosting`
+**Tags**: `#AI/ML`, `#Transformers`, `#ARC Benchmark`, `#Machine Learning`
 
 ---
