@@ -5,21 +5,14 @@ date: 2026-09-01
 lang: en
 ---
 
-> From 67 items, 1 important content pieces were selected
+> Analyzed 68 items, but none met the importance threshold.
 
----
+No significant developments today. This might indicate:
+- A quiet day in your tracked sources
+- The AI score threshold is too high
+- Your information sources need expansion
 
-1. [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) ⭐️ 8.0/10
-
-Google has officially begun removing Manifest V2 extensions, including uBlock Origin, from the Chrome Web Store as it enforces Manifest V3.
-
-hackernews · twapi · Aug 31, 21:10 · [Discussion](https://news.ycombinator.com/item?id=49514878)
-
-**Tags**: `#Chrome`, `#Adblocking`, `#Browser Extensions`, `#Privacy`, `#Google`
-
----
+Consider:
+1. Lowering the `ai_score_threshold` in config.json
+2. Adding more diverse information sources
+3. Checking if the AI model is working correctly
