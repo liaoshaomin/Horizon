@@ -5,33 +5,33 @@ date: 2026-09-01
 lang: zh
 ---
 
-> 从 71 条内容中筛选出 2 条重要资讯。
+> 从 67 条内容中筛选出 2 条重要资讯。
 
 ---
 
-1. [I turned my security cameras into an automatic bird identification system](#item-1) ⭐️ 8.0/10
-2. [LSE to Roll Out Tokenized Stocks in Push Into Digital Assets](#item-2) ⭐️ 8.0/10
+1. [I trained a small transformer in 1.5hrs and it beats many LLMs](#item-1) ⭐️ 8.0/10
+2. [Fastpotify](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) ⭐️ 8.0/10
+## [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) ⭐️ 8.0/10
 
-A developer explains how to utilize audio feeds from existing home security cameras combined with BirdNET-Go to automatically identify bird species by their calls.
+The author demonstrates a small autoregressive transformer trained from scratch in 1.5 hours that achieves top results on the Abstraction and Reasoning Corpus \(ARC\) benchmark.
 
-hackernews · speckx · 8月31日 16:47 · [社区讨论](https://news.ycombinator.com/item?id=49511856)
+hackernews · porridgeraisin · 9月1日 09:52 · [社区讨论](https://news.ycombinator.com/item?id=49519939)
 
-**标签**: `#Machine Learning`, `#IoT`, `#Audio Processing`, `#Raspberry Pi`, `#DIY Hardware`
+**标签**: `#Machine Learning`, `#Transformers`, `#ARC Benchmark`, `#AI Research`
 
 ---
 
 <a id="item-2"></a>
-## [LSE to Roll Out Tokenized Stocks in Push Into Digital Assets](https://www.bloomberg.com/news/articles/2026-09-01/lse-to-roll-out-tokenized-stocks-in-push-into-digital-assets) ⭐️ 8.0/10
+## [Fastpotify](https://fastpotify.rocks/) ⭐️ 8.0/10
 
-The London Stock Exchange is preparing to launch tokenized stocks backed by shares of London-listed companies to expand its digital asset offerings.
+Fastpotify is a fast, lightweight third-party Spotify client supporting classic Winamp skins, driving community discussion around app bloat and self-hosted music solutions.
 
-rss · Bloomberg Markets · 9月1日 07:38
+hackernews · nreece · 9月1日 02:52 · [社区讨论](https://news.ycombinator.com/item?id=49517448)
 
-**标签**: `#Blockchain`, `#Fintech`, `#Digital Assets`, `#Tokenization`, `#Finance`
+**标签**: `#Spotify`, `#Open Source`, `#Audio Streaming`, `#UI/UX`, `#Self-Hosting`
 
 ---
