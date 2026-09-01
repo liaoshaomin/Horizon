@@ -5,14 +5,33 @@ date: 2026-09-01
 lang: en
 ---
 
-> Analyzed 68 items, but none met the importance threshold.
+> From 71 items, 2 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [I turned my security cameras into an automatic bird identification system](#item-1) ⭐️ 8.0/10
+2. [LSE to Roll Out Tokenized Stocks in Push Into Digital Assets](#item-2) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) ⭐️ 8.0/10
+
+A developer explains how to utilize audio feeds from existing home security cameras combined with BirdNET-Go to automatically identify bird species by their calls.
+
+hackernews · speckx · Aug 31, 16:47 · [Discussion](https://news.ycombinator.com/item?id=49511856)
+
+**Tags**: `#Machine Learning`, `#IoT`, `#Audio Processing`, `#Raspberry Pi`, `#DIY Hardware`
+
+---
+
+<a id="item-2"></a>
+## [LSE to Roll Out Tokenized Stocks in Push Into Digital Assets](https://www.bloomberg.com/news/articles/2026-09-01/lse-to-roll-out-tokenized-stocks-in-push-into-digital-assets) ⭐️ 8.0/10
+
+The London Stock Exchange is preparing to launch tokenized stocks backed by shares of London-listed companies to expand its digital asset offerings.
+
+rss · Bloomberg Markets · Sep 1, 07:38
+
+**Tags**: `#Blockchain`, `#Fintech`, `#Digital Assets`, `#Tokenization`, `#Finance`
+
+---
