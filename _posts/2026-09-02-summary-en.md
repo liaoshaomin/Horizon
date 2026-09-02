@@ -5,14 +5,33 @@ date: 2026-09-02
 lang: en
 ---
 
-> Analyzed 70 items, but none met the importance threshold.
+> From 71 items, 2 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Gemini 3.8 Flash and 3.8 Flash Cyber](#item-1) ⭐️ 9.0/10
+2. [Google avoids a breakup of its ad tech business](#item-2) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) ⭐️ 9.0/10
+
+Google announced Gemini 3.8 Flash and 3.8 Flash Cyber, delivering frontier-level intelligence benchmark scores at high speed and low cost.
+
+hackernews · bratao · Sep 2, 15:12 · [Discussion](https://news.ycombinator.com/item?id=49537553)
+
+**Tags**: `#AI`, `#Gemini`, `#LLM`, `#Machine Learning`, `#Google`
+
+---
+
+<a id="item-2"></a>
+## [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) ⭐️ 8.0/10
+
+Google successfully avoided a court-ordered breakup of its ad tech business in a landmark DOJ antitrust remedies decision.
+
+hackernews · donohoe · Sep 2, 14:46 · [Discussion](https://news.ycombinator.com/item?id=49537131)
+
+**Tags**: `#Antitrust`, `#Google`, `#AdTech`, `#Tech Policy`, `#Legal`
+
+---
