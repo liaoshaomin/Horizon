@@ -5,21 +5,14 @@ date: 2026-09-02
 lang: zh
 ---
 
-> 从 75 条内容中筛选出 1 条重要资讯。
+> 已分析 70 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [Claude Fable 5.1 and Claude Mythos 5.1](#item-1) ⭐️ 9.0/10
-
----
-
-<a id="item-1"></a>
-## [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) ⭐️ 9.0/10
-
-Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, introducing improved writing naturalness, enhanced science capabilities, variable thinking effort levels, and reduced prompt caching costs.
-
-hackernews · denysvitali · 9月1日 17:53 · [社区讨论](https://news.ycombinator.com/item?id=49525378)
-
-**标签**: `#AI`, `#LLMs`, `#Anthropic`, `#Claude`, `#Machine Learning`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
