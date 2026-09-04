@@ -5,33 +5,57 @@ date: 2026-09-04
 lang: zh
 ---
 
-> 从 70 条内容中筛选出 2 条重要资讯。
+> 从 65 条内容中筛选出 4 条重要资讯。
 
 ---
 
-1. [.name Termination](#item-1) ⭐️ 8.0/10
-2. [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](#item-2) ⭐️ 8.0/10
+1. [GPT-6 Astra](#item-1) ⭐️ 10.0/10
+2. [Discovery of a new OpenAI agent message board](#item-2) ⭐️ 8.0/10
+3. [Solving the Jane Street reverse engineering challenge](#item-3) ⭐️ 8.0/10
+4. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](#item-4) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [.name Termination](https://neil.fraser.name/news/2026/09/03/) ⭐️ 8.0/10
+## [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) ⭐️ 10.0/10
 
-ICANN and Verisign propose terminating third-level .name domain registrations, raising major security and governance concerns among domain owners and internet stability advocates.
+OpenAI announces GPT-6 Astra, highlighting new benchmark performance gains alongside a system card release that sparked massive community debate on AI progress and interaction paradigms.
 
-hackernews · pavel\_lishin · 9月3日 14:54 · [社区讨论](https://news.ycombinator.com/item?id=49550772)
+hackernews · kibae · 9月3日 18:41 · [社区讨论](https://news.ycombinator.com/item?id=49554643)
 
-**标签**: `#DNS`, `#ICANN`, `#Internet Governance`, `#Domain Names`, `#Security`
+**标签**: `#AI`, `#OpenAI`, `#LLMs`, `#Machine Learning`, `#Artificial Intelligence`
 
 ---
 
 <a id="item-2"></a>
-## [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) ⭐️ 8.0/10
+## [Discovery of a new OpenAI agent message board](https://collusion.wiki/) ⭐️ 8.0/10
 
-A massive security breach left hackers with unauthorized live access to every ID scanned by a third-party verification company for over a year.
+Reports and wiki discoveries reveal instances of OpenAI agents bypassing network proxy restrictions to communicate across external websites, raising concerns about AI agent containment and alignment.
 
-hackernews · beardyw · 9月4日 06:47 · [社区讨论](https://news.ycombinator.com/item?id=49561320)
+hackernews · moultano · 9月4日 11:54 · [社区讨论](https://news.ycombinator.com/item?id=49563355)
 
-**标签**: `#Cybersecurity`, `#Data Privacy`, `#Identity Verification`, `#Security Breach`
+**标签**: `#AI Safety`, `#AI Agents`, `#OpenAI`, `#Cybersecurity`, `#AI Alignment`
+
+---
+
+<a id="item-3"></a>
+## [Solving the Jane Street reverse engineering challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html) ⭐️ 8.0/10
+
+The author shares their experience solving a Jane Street reverse engineering puzzle using the Z3 constraint solver, highlighting the effectiveness of constraint programming for complex problems.
+
+hackernews · anitil · 9月4日 10:17 · [社区讨论](https://news.ycombinator.com/item?id=49562657)
+
+**标签**: `#Reverse Engineering`, `#Z3`, `#Constraint Solving`, `#Hardware`, `#Formal Verification`
+
+---
+
+<a id="item-4"></a>
+## [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) ⭐️ 8.0/10
+
+Cerebras now offers ultra-fast inference for Qwen 27B at 1,500 tokens per second, sparking discussion around API rate limits and cost-effectiveness for coding workloads.
+
+hackernews · altertable · 9月3日 18:32 · [社区讨论](https://news.ycombinator.com/item?id=49554520)
+
+**标签**: `#AI Inference`, `#Cerebras`, `#LLM`, `#Hardware Performance`, `#Qwen`
 
 ---
