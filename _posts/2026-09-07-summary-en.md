@@ -5,33 +5,33 @@ date: 2026-09-07
 lang: en
 ---
 
-> From 60 items, 2 important content pieces were selected
+> From 67 items, 2 important content pieces were selected
 
 ---
 
 1. [LG smart TVs caught logging audio with screen off and snooping on local devices](#item-1) ⭐️ 8.0/10
-2. [It took a year to ship WebAssembly in Anubis](#item-2) ⭐️ 8.0/10
+2. [GrapheneOS Overhauled Default Apps and Secure Clipboard](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html) ⭐️ 8.0/10
 
-LG smart TVs were discovered actively scanning local network devices and logging audio even when the screen is powered off, raising major privacy concerns.
+Investigations reveal LG smart TVs are actively logging audio even when the screen is off and scanning other devices on the local network.
 
 hackernews · chris\_overseas · Sep 7, 07:03 · [Discussion](https://news.ycombinator.com/item?id=49594878)
 
-**Tags**: `#Privacy`, `#Security`, `#IoT`, `#Smart TV`, `#Hardware`
+**Tags**: `#Privacy`, `#IoT Security`, `#Hardware`, `#Consumer Electronics`
 
 ---
 
 <a id="item-2"></a>
-## [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) ⭐️ 8.0/10
+## [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649) ⭐️ 8.0/10
 
-The author reflects on a year-long journey integrating WebAssembly into Anubis, detailing technical hurdles with Rust&\#x27;s WebAssembly targets and browser compatibility.
+GrapheneOS is overhauling its default applications and developing an independent RCS client with end-to-end encryption to eliminate reliance on Google Messages.
 
-hackernews · xena · Sep 6, 20:32 · [Discussion](https://news.ycombinator.com/item?id=49590611)
+hackernews · Cider9986 · Sep 6, 20:24 · [Discussion](https://news.ycombinator.com/item?id=49590512)
 
-**Tags**: `#WebAssembly`, `#Rust`, `#Software Engineering`, `#Web Development`
+**Tags**: `#GrapheneOS`, `#Mobile Security`, `#Privacy`, `#Android`, `#Encryption`
 
 ---
