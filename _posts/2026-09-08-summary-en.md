@@ -5,33 +5,33 @@ date: 2026-09-08
 lang: en
 ---
 
-> From 68 items, 2 important content pieces were selected
+> From 73 items, 2 important content pieces were selected
 
 ---
 
-1. [I&\#x27;ve factored the RSA keys of a Certificate Authority from the 90s](#item-1) ⭐️ 8.0/10
-2. [TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand](#item-2) ⭐️ 8.0/10
+1. [Google DeepMind Releases AlphaGenome Atlas](#item-1) ⭐️ 8.0/10
+2. [On the Navier–Stokes Millennium Prize Problem](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [I&\#x27;ve factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) ⭐️ 8.0/10
+## [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) ⭐️ 8.0/10
 
-The author factored a 512-bit Certificate Authority RSA key from the 1990s using modern GPU computing and created a custom SSLv3-compatible server to establish secure connections with legacy Netscape browsers.
+Google DeepMind has announced the AlphaGenome Atlas, an AI-powered repository predicting the functional effects of genetic variants across the genome.
 
-hackernews · ahlCVA · Sep 8, 01:16 · [Discussion](https://news.ycombinator.com/item?id=49604637)
+hackernews · utiiiD · Sep 8, 14:55 · [Discussion](https://news.ycombinator.com/item?id=49611251)
 
-**Tags**: `#Cryptography`, `#Security`, `#RSA`, `#TLS`, `#Tech History`
+**Tags**: `#AI`, `#Genomics`, `#DeepMind`, `#Bioinformatics`, `#Machine Learning`
 
 ---
 
 <a id="item-2"></a>
-## [TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand](https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html) ⭐️ 8.0/10
+## [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) ⭐️ 8.0/10
 
-TSMC and Samsung have committed to adopting ASML&\#x27;s advanced High-NA EUV tools to manufacture more complex, next-generation AI semiconductors.
+OpenAI announced research detailing AI-driven progress on the Navier–Stokes Millennium Prize Problem, igniting intense debate in the community over model performance and research ethics.
 
-rss · CNBC Top News · Sep 8, 08:32
+hackernews · tedsanders · Sep 8, 17:13 · [Discussion](https://news.ycombinator.com/item?id=49613262)
 
-**Tags**: `#Semiconductors`, `#Hardware`, `#Artificial Intelligence`, `#ASML`, `#TSMC`
+**Tags**: `#Artificial Intelligence`, `#Mathematics`, `#OpenAI`, `#Machine Learning`, `#Research`
 
 ---
