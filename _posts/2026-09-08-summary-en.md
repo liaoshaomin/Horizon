@@ -5,14 +5,21 @@ date: 2026-09-08
 lang: en
 ---
 
-> Analyzed 61 items, but none met the importance threshold.
+> From 64 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Jellyfin 12.0](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) ⭐️ 8.0/10
+
+Jellyfin has officially released version 12.0 of its open-source media server platform, bringing updates and improvements to the self-hosted media community.
+
+hackernews · 0xC0ncord · Sep 8, 01:56 · [Discussion](https://news.ycombinator.com/item?id=49604861)
+
+**Tags**: `#Open Source`, `#Media Server`, `#Jellyfin`, `#Software Release`, `#Self-Hosted`
+
+---
