@@ -5,33 +5,33 @@ date: 2026-09-10
 lang: en
 ---
 
-> From 72 items, 2 important content pieces were selected
+> From 68 items, 2 important content pieces were selected
 
 ---
 
 1. [DeepSeek v4.1 Flash](#item-1) ⭐️ 9.0/10
-2. [iPhone Duo](#item-2) ⭐️ 9.0/10
+2. [Shopify moves back to Native from React Native](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907) ⭐️ 9.0/10
 
-DeepSeek has released DeepSeek-V4.1-Flash, a highly efficient multimodal AI model accompanied by a detailed technical report and extremely low caching costs.
+DeepSeek has released DeepSeek-V4.1-Flash with a detailed technical report highlighting significant architectural advancements and extremely low cache hit pricing.
 
 hackernews · Liwink · Sep 10, 06:11 · [Discussion](https://news.ycombinator.com/item?id=49639090)
 
-**Tags**: `#AI/ML`, `#LLM`, `#DeepSeek`, `#Open Source AI`, `#Model Optimization`
+**Tags**: `#AI/ML`, `#DeepSeek`, `#Large Language Models`, `#Open Source AI`, `#Inference Optimization`
 
 ---
 
 <a id="item-2"></a>
-## [iPhone Duo](https://www.apple.com/iphone-duo/) ⭐️ 9.0/10
+## [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native) ⭐️ 8.0/10
 
-Apple announces the iPhone Duo, marking its entry into the foldable smartphone market and sparking extensive debate over hardware design and software support for dual-screen mobile devices.
+Shopify is transitioning its mobile development back to native iOS and Android codebases after years of using React Native.
 
-hackernews · thecosmicfrog · Sep 9, 18:15 · [Discussion](https://news.ycombinator.com/item?id=49630931)
+hackernews · fnthawar2 · Sep 10, 14:09 · [Discussion](https://news.ycombinator.com/item?id=49643982)
 
-**Tags**: `#Apple`, `#Hardware`, `#Smartphones`, `#Foldable Devices`, `#Mobile`
+**Tags**: `#Mobile Development`, `#React Native`, `#Software Architecture`, `#iOS`, `#Android`
 
 ---
