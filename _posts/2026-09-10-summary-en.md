@@ -5,14 +5,33 @@ date: 2026-09-10
 lang: en
 ---
 
-> Analyzed 80 items, but none met the importance threshold.
+> From 72 items, 2 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [DeepSeek v4.1 Flash](#item-1) ⭐️ 9.0/10
+2. [iPhone Duo](#item-2) ⭐️ 9.0/10
+
+---
+
+<a id="item-1"></a>
+## [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907) ⭐️ 9.0/10
+
+DeepSeek has released DeepSeek-V4.1-Flash, a highly efficient multimodal AI model accompanied by a detailed technical report and extremely low caching costs.
+
+hackernews · Liwink · Sep 10, 06:11 · [Discussion](https://news.ycombinator.com/item?id=49639090)
+
+**Tags**: `#AI/ML`, `#LLM`, `#DeepSeek`, `#Open Source AI`, `#Model Optimization`
+
+---
+
+<a id="item-2"></a>
+## [iPhone Duo](https://www.apple.com/iphone-duo/) ⭐️ 9.0/10
+
+Apple announces the iPhone Duo, marking its entry into the foldable smartphone market and sparking extensive debate over hardware design and software support for dual-screen mobile devices.
+
+hackernews · thecosmicfrog · Sep 9, 18:15 · [Discussion](https://news.ycombinator.com/item?id=49630931)
+
+**Tags**: `#Apple`, `#Hardware`, `#Smartphones`, `#Foldable Devices`, `#Mobile`
+
+---
