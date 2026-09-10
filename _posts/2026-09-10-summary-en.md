@@ -5,33 +5,33 @@ date: 2026-09-10
 lang: en
 ---
 
-> From 68 items, 2 important content pieces were selected
+> From 67 items, 2 important content pieces were selected
 
 ---
 
-1. [DeepSeek v4.1 Flash](#item-1) ⭐️ 9.0/10
-2. [Shopify moves back to Native from React Native](#item-2) ⭐️ 8.0/10
+1. [Shopify is moving from React Native back to Swift and Kotlin](#item-1) ⭐️ 8.0/10
+2. [More questions about whether researchers can trust OpenAI with unpublished math](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907) ⭐️ 9.0/10
+## [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) ⭐️ 8.0/10
 
-DeepSeek has released DeepSeek-V4.1-Flash with a detailed technical report highlighting significant architectural advancements and extremely low cache hit pricing.
+Shopify is transitioning its mobile app development away from React Native back to native Swift and Kotlin.
 
-hackernews · Liwink · Sep 10, 06:11 · [Discussion](https://news.ycombinator.com/item?id=49639090)
+hackernews · fnthawar2 · Sep 10, 14:09 · [Discussion](https://news.ycombinator.com/item?id=49643982)
 
-**Tags**: `#AI/ML`, `#DeepSeek`, `#Large Language Models`, `#Open Source AI`, `#Inference Optimization`
+**Tags**: `#mobile-development`, `#react-native`, `#swift`, `#kotlin`, `#software-architecture`
 
 ---
 
 <a id="item-2"></a>
-## [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native) ⭐️ 8.0/10
+## [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) ⭐️ 8.0/10
 
-Shopify is transitioning its mobile development back to native iOS and Android codebases after years of using React Native.
+Academic researchers are raising concerns that sharing unpublished mathematical work with OpenAI&\#x27;s models could lead to uncredited usage, potential training data leakage, or uncredited discovery.
 
-hackernews · fnthawar2 · Sep 10, 14:09 · [Discussion](https://news.ycombinator.com/item?id=49643982)
+hackernews · pred\_ · Sep 10, 06:49 · [Discussion](https://news.ycombinator.com/item?id=49639408)
 
-**Tags**: `#Mobile Development`, `#React Native`, `#Software Architecture`, `#iOS`, `#Android`
+**Tags**: `#AI Ethics`, `#OpenAI`, `#Data Privacy`, `#Academic Research`, `#Machine Learning`
 
 ---
