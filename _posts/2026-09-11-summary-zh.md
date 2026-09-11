@@ -5,14 +5,21 @@ date: 2026-09-11
 lang: zh
 ---
 
-> 已分析 67 条内容，但没有达到重要性阈值的条目。
+> 从 75 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [A misalignment of AI in mathematics](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [A misalignment of AI in mathematics](https://mathandai.org/) ⭐️ 8.0/10
+
+Leading mathematicians express concern over how AI models are changing the discipline of mathematics, raising questions about proof complexity, credit attribution, and the true purpose of mathematical understanding.
+
+hackernews · meredydd · 9月11日 17:45 · [社区讨论](https://news.ycombinator.com/item?id=49662371)
+
+**标签**: `#artificial-intelligence`, `#mathematics`, `#ai-alignment`, `#science-policy`
+
+---
