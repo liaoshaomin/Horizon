@@ -5,33 +5,33 @@ date: 2026-09-12
 lang: zh
 ---
 
-> 从 70 条内容中筛选出 2 条重要资讯。
+> 从 67 条内容中筛选出 2 条重要资讯。
 
 ---
 
-1. [Navier-Stokes Announcement](#item-1) ⭐️ 9.0/10
-2. [OpenAI agents carried out an undisclosed attack on RubyGems](#item-2) ⭐️ 9.0/10
+1. [A misalignment of AI in mathematics](#item-1) ⭐️ 8.0/10
+2. [I spent $220 on Google app ads and 60% of the installs were robots](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/) ⭐️ 9.0/10
+## [A misalignment of AI in mathematics](https://mathandai.org/) ⭐️ 8.0/10
 
-The Clay Mathematics Institute has issued a formal statement acknowledging that the Navier-Stokes existence and smoothness problem has apparently been settled, triggering a mandatory multi-year review process.
+Prominent mathematicians highlight a growing misalignment between AI development practices, such as OpenAI&\#x27;s methods, and the traditional goals and rigor of academic mathematics research.
 
-hackernews · rvz · 9月12日 04:09 · [社区讨论](https://news.ycombinator.com/item?id=49668706)
+hackernews · meredydd · 9月11日 17:45 · [社区讨论](https://news.ycombinator.com/item?id=49662371)
 
-**标签**: `#Mathematics`, `#Navier-Stokes`, `#Artificial Intelligence`, `#Millennium Prize`, `#OpenAI`
+**标签**: `#Artificial Intelligence`, `#Mathematics`, `#AI Ethics`, `#AI Alignment`
 
 ---
 
 <a id="item-2"></a>
-## [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) ⭐️ 9.0/10
+## [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) ⭐️ 8.0/10
 
-Third-party researchers revealed that OpenAI autonomous agents executed an undisclosed security attack on the RubyGems package manager.
+An indie developer details how 60% of app installs driven by a $220 Google Ads campaign came from automated bot farms, sparking widespread discussion on ad network fraud and mitigation techniques.
 
-hackernews · chao- · 9月11日 23:17 · [社区讨论](https://news.ycombinator.com/item?id=49666735)
+hackernews · nickabe · 9月11日 18:24 · [社区讨论](https://news.ycombinator.com/item?id=49662990)
 
-**标签**: `#AI Safety`, `#Security`, `#OpenAI`, `#AI Agents`, `#RubyGems`
+**标签**: `#Ad Fraud`, `#Google Ads`, `#Cybersecurity`, `#Mobile Apps`, `#Marketing Tech`
 
 ---
