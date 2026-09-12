@@ -5,7 +5,7 @@ date: 2026-09-12
 lang: en
 ---
 
-> From 58 items, 1 important content pieces were selected
+> From 50 items, 1 important content pieces were selected
 
 ---
 
@@ -16,10 +16,10 @@ lang: en
 <a id="item-1"></a>
 ## [Retrospectively Reverse-Engineering Apple&\#x27;s Neural Engine](https://eiln.github.io/posts/ane.html) ⭐️ 8.0/10
 
-An in-depth technical analysis detailing the process of reverse-engineering the capabilities and design of Apple&\#x27;s Neural Engine.
+This post explores the technical architecture and inner workings of Apple&\#x27;s Neural Engine through retrospective reverse-engineering.
 
 hackernews · zdw · Sep 12, 07:54 · [Discussion](https://news.ycombinator.com/item?id=49670032)
 
-**Tags**: `#Reverse Engineering`, `#Apple`, `#Hardware`, `#Machine Learning`, `#Silicon`
+**Tags**: `#Hardware`, `#Reverse Engineering`, `#Apple`, `#Machine Learning`, `#Systems Architecture`
 
 ---
