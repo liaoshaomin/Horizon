@@ -5,21 +5,14 @@ date: 2026-09-14
 lang: zh
 ---
 
-> 从 66 条内容中筛选出 1 条重要资讯。
+> 已分析 69 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [A 386 PC for Your RP2350](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386) ⭐️ 8.0/10
-
-Frank-386 is an open-source project that emulates an Intel 386 PC complete with VGA output and SoundBlaster audio using the RP2350 microcontroller.
-
-hackernews · SamuraiLion · 9月14日 08:25 · [社区讨论](https://news.ycombinator.com/item?id=49693613)
-
-**标签**: `#Retrocomputing`, `#RP2350`, `#Emulation`, `#Embedded Systems`, `#Hardware`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
