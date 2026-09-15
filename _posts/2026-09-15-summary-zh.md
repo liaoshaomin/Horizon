@@ -5,21 +5,14 @@ date: 2026-09-15
 lang: zh
 ---
 
-> 从 69 条内容中筛选出 1 条重要资讯。
+> 已分析 66 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) ⭐️ 8.0/10
-
-An innovative maker project that listens for local bird calls using BirdNET audio classification and displays vintage 1800s-style bird illustrations on an e-ink frame.
-
-hackernews · arnemunthekaas · 9月15日 12:31 · [社区讨论](https://news.ycombinator.com/item?id=49711544)
-
-**标签**: `#Hardware`, `#E-Ink`, `#Embedded Systems`, `#Machine Learning`, `#Maker`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
