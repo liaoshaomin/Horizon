@@ -5,21 +5,21 @@ date: 2026-09-15
 lang: zh
 ---
 
-> 从 71 条内容中筛选出 1 条重要资讯。
+> 从 69 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [Java 27 Released](#item-1) ⭐️ 9.0/10
+1. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Java 27 Released](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/) ⭐️ 9.0/10
+## [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) ⭐️ 8.0/10
 
-Java 27 has been officially released by OpenJDK, sparking broad community discussion around language updates, enterprise adoption rates, and comparisons with competing platforms.
+An innovative maker project that listens for local bird calls using BirdNET audio classification and displays vintage 1800s-style bird illustrations on an e-ink frame.
 
-hackernews · mkurz · 9月15日 13:13 · [社区讨论](https://news.ycombinator.com/item?id=49712041)
+hackernews · arnemunthekaas · 9月15日 12:31 · [社区讨论](https://news.ycombinator.com/item?id=49711544)
 
-**标签**: `#Java`, `#OpenJDK`, `#Software Releases`, `#Programming Languages`
+**标签**: `#Hardware`, `#E-Ink`, `#Embedded Systems`, `#Machine Learning`, `#Maker`
 
 ---
