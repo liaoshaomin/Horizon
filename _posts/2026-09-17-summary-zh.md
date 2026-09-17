@@ -5,21 +5,21 @@ date: 2026-09-17
 lang: zh
 ---
 
-> 从 65 条内容中筛选出 1 条重要资讯。
+> 从 70 条内容中筛选出 1 条重要资讯。
 
 ---
 
-1. [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](#item-1) ⭐️ 8.0/10
+1. [Nvidia announces native GPU programming in Rust](#item-1) ⭐️ 9.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858) ⭐️ 8.0/10
+## [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) ⭐️ 9.0/10
 
-Dream-RSI proposes a novel reinforcement learning framework that enables agents to achieve recursive self-improvement by training inside dynamically evolving world models.
+Nvidia has announced native support for writing CUDA GPU kernels directly in Rust, offering a memory-safe alternative for high-performance GPU computing.
 
-hackernews · bananaflag · 9月16日 13:44 · [社区讨论](https://news.ycombinator.com/item?id=49726955)
+hackernews · nonmaskable · 9月16日 11:15 · [社区讨论](https://news.ycombinator.com/item?id=49724881)
 
-**标签**: `#Artificial Intelligence`, `#Reinforcement Learning`, `#World Models`, `#Recursive Self-Improvement`, `#Machine Learning`
+**标签**: `#Nvidia`, `#CUDA`, `#Rust`, `#GPU Computing`, `#Parallel Programming`
 
 ---
