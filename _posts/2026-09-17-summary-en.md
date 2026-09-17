@@ -5,14 +5,21 @@ date: 2026-09-17
 lang: en
 ---
 
-> Analyzed 79 items, but none met the importance threshold.
+> From 56 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Hister: A private search engine for the pages you visit and the files you keep](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) ⭐️ 8.0/10
+
+Hister is an open-source, privacy-focused personal search engine that indexes browser history, bookmarks, visited web pages, and local files for fast offline retrieval.
+
+hackernews · bookofjoe · Sep 17, 16:25 · [Discussion](https://news.ycombinator.com/item?id=49743097)
+
+**Tags**: `#Search Engines`, `#Privacy`, `#Open Source`, `#Knowledge Management`
+
+---

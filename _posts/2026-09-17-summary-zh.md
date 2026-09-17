@@ -5,14 +5,21 @@ date: 2026-09-17
 lang: zh
 ---
 
-> 已分析 79 条内容，但没有达到重要性阈值的条目。
+> 从 56 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Hister: A private search engine for the pages you visit and the files you keep](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) ⭐️ 8.0/10
+
+Hister is an open-source, privacy-focused personal search engine that indexes browser history, bookmarks, visited web pages, and local files for fast offline retrieval.
+
+hackernews · bookofjoe · 9月17日 16:25 · [社区讨论](https://news.ycombinator.com/item?id=49743097)
+
+**标签**: `#Search Engines`, `#Privacy`, `#Open Source`, `#Knowledge Management`
+
+---
