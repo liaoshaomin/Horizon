@@ -5,21 +5,33 @@ date: 2026-09-19
 lang: zh
 ---
 
-> 从 69 条内容中筛选出 1 条重要资讯。
+> 从 70 条内容中筛选出 2 条重要资讯。
 
 ---
 
-1. [Saving another 100TB of RAM](#item-1) ⭐️ 8.0/10
+1. [Human brain is two separate organs, Stanford Medicine-led research finds](#item-1) ⭐️ 8.0/10
+2. [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) ⭐️ 8.0/10
+## [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) ⭐️ 8.0/10
 
-Cloudflare details how they used mathematical optimization techniques to reduce RAM usage by 100TB across their global edge infrastructure.
+Stanford Medicine-led research reveals that the human brain develops from two distinct, mutually exclusive progenitor cell lineages, offering new methods for growing brain stem cells in vitro.
 
-hackernews · f311a · 9月18日 18:51 · [社区讨论](https://news.ycombinator.com/item?id=49758580)
+hackernews · emigre · 9月19日 05:48 · [社区讨论](https://news.ycombinator.com/item?id=49763697)
 
-**标签**: `#Performance Tuning`, `#Systems Engineering`, `#Cloudflare`, `#Memory Management`
+**标签**: `#Neuroscience`, `#Developmental Biology`, `#Stem Cells`, `#Medical Research`
+
+---
+
+<a id="item-2"></a>
+## [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) ⭐️ 8.0/10
+
+Google has begun introducing new Android APIs through Pixel-exclusive updates without first releasing them to the Android Open Source Project \(AOSP\), marking a significant departure from its standard open-source release model.
+
+hackernews · theanonymousone · 9月18日 19:03 · [社区讨论](https://news.ycombinator.com/item?id=49758736)
+
+**标签**: `#Android`, `#AOSP`, `#Open Source`, `#Google`, `#GrapheneOS`
 
 ---
