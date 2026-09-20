@@ -5,21 +5,33 @@ date: 2026-09-20
 lang: en
 ---
 
-> From 47 items, 1 important content pieces were selected
+> From 55 items, 2 important content pieces were selected
 
 ---
 
-1. [RSA-896](#item-1) ⭐️ 8.0/10
+1. [ChatGPT now knows what you do on other websites via ad collector](#item-1) ⭐️ 8.0/10
+2. [Qwen Image 2.1](#item-2) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [RSA-896](https://saweis.net/posts/rsa-896.html) ⭐️ 8.0/10
+## [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) ⭐️ 8.0/10
 
-A researcher factored the 896-bit RSA challenge key by using Claude to port CADO-NFS to GPUs and running it across an idle GPU cluster.
+An investigation into how OpenAI&\#x27;s ChatGPT uses standard web ad collector mechanisms to track user activity across external websites.
 
-hackernews · madars · Sep 20, 02:19 · [Discussion](https://news.ycombinator.com/item?id=49771966)
+hackernews · lmbbuchodi · Sep 20, 15:18 · [Discussion](https://news.ycombinator.com/item?id=49776729)
 
-**Tags**: `#Cryptography`, `#GPU Computing`, `#Security`, `#Algorithms`, `#Artificial Intelligence`
+**Tags**: `#Data Privacy`, `#ChatGPT`, `#AdTech`, `#AI Ethics`, `#Web Browsers`
+
+---
+
+<a id="item-2"></a>
+## [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) ⭐️ 8.0/10
+
+Alibaba released Qwen Image 2.1, an efficient 7B parameter image generation model with native transparency support and improved text rendering.
+
+hackernews · jmillikin · Sep 20, 13:09 · [Discussion](https://news.ycombinator.com/item?id=49775499)
+
+**Tags**: `#AI`, `#Machine Learning`, `#Computer Vision`, `#Generative AI`, `#Open Source`
 
 ---
