@@ -5,14 +5,21 @@ date: 2026-09-22
 lang: zh
 ---
 
-> 已分析 70 条内容，但没有达到重要性阈值的条目。
+> 从 70 条内容中筛选出 1 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Overreliance on AI contributed to missile strike on Iran school – Pentagon](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Overreliance on AI contributed to missile strike on Iran school – Pentagon](https://www.bloomberg.com/graphics/2026-iran-school-attack/) ⭐️ 8.0/10
+
+A Pentagon report indicates that overreliance on AI software and human negligence contributed to a fatal missile strike on a civilian school in Iran.
+
+hackernews · devonnull · 9月22日 19:03 · [社区讨论](https://news.ycombinator.com/item?id=49806430)
+
+**标签**: `#Artificial Intelligence`, `#AI Ethics`, `#Defense Tech`, `#Military AI`
+
+---

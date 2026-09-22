@@ -5,14 +5,21 @@ date: 2026-09-22
 lang: en
 ---
 
-> Analyzed 70 items, but none met the importance threshold.
+> From 70 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Overreliance on AI contributed to missile strike on Iran school – Pentagon](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Overreliance on AI contributed to missile strike on Iran school – Pentagon](https://www.bloomberg.com/graphics/2026-iran-school-attack/) ⭐️ 8.0/10
+
+A Pentagon report indicates that overreliance on AI software and human negligence contributed to a fatal missile strike on a civilian school in Iran.
+
+hackernews · devonnull · Sep 22, 19:03 · [Discussion](https://news.ycombinator.com/item?id=49806430)
+
+**Tags**: `#Artificial Intelligence`, `#AI Ethics`, `#Defense Tech`, `#Military AI`
+
+---
