@@ -5,33 +5,14 @@ date: 2026-09-22
 lang: zh
 ---
 
-> 从 73 条内容中筛选出 2 条重要资讯。
+> 已分析 70 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [MiMo v2.6](#item-1) ⭐️ 8.0/10
-2. [Transformers Explained Visually](#item-2) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) ⭐️ 8.0/10
-
-Xiaomi has released MiMo v2.6, an open-weights Mixture-of-Experts AI model series scaling up to 1.02 trillion total parameters with extensive transparency into its training methodology.
-
-hackernews · volf\_ · 9月21日 20:12 · [社区讨论](https://news.ycombinator.com/item?id=49792730)
-
-**标签**: `#AI`, `#Large Language Models`, `#Open Source AI`, `#Mixture of Experts`, `#Machine Learning`
-
----
-
-<a id="item-2"></a>
-## [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) ⭐️ 8.0/10
-
-Transformer Explainer is an interactive web-based tool that visually breaks down the internal architecture, attention mechanisms, and mathematical operations of Transformer models.
-
-hackernews · aray07 · 9月21日 19:43 · [社区讨论](https://news.ycombinator.com/item?id=49792342)
-
-**标签**: `#Machine Learning`, `#Transformers`, `#Data Visualization`, `#Artificial Intelligence`, `#Educational`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
