@@ -5,21 +5,14 @@ date: 2026-09-25
 lang: zh
 ---
 
-> 从 64 条内容中筛选出 1 条重要资讯。
+> 已分析 67 条内容，但没有达到重要性阈值的条目。
 
----
+今日暂无重要动态，可能原因：
+- 今天关注的信息源较平静
+- AI 评分阈值设置过高
+- 信息源种类有待扩充
 
-1. [Two-tier encryption in the UK](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [Two-tier encryption in the UK](https://macanorak.com/two-tier-encryption-in-the-uk/) ⭐️ 8.0/10
-
-An analysis of Apple&\#x27;s decision to withdraw Advanced Data Protection in the UK to comply with local legal orders, resulting in a two-tier security model for global versus UK iCloud users.
-
-hackernews · ReturnoftheHack · 9月24日 10:39 · [社区讨论](https://news.ycombinator.com/item?id=49828731)
-
-**标签**: `#Privacy`, `#Encryption`, `#Apple`, `#Cybersecurity`, `#Tech Policy`
-
----
+建议：
+1. 在 config.json 中降低 `ai_score_threshold`
+2. 添加更多多样化的信息源
+3. 检查 AI 模型是否正常工作
