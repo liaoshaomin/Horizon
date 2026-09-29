@@ -5,21 +5,14 @@ date: 2026-09-29
 lang: en
 ---
 
-> From 71 items, 1 important content pieces were selected
+> Analyzed 73 items, but none met the importance threshold.
 
----
+No significant developments today. This might indicate:
+- A quiet day in your tracked sources
+- The AI score threshold is too high
+- Your information sources need expansion
 
-1. [Coding is not solved](#item-1) ⭐️ 8.0/10
-
----
-
-<a id="item-1"></a>
-## [Coding is not solved](https://blog.alexewerlof.com/p/coding-is-not-solved) ⭐️ 8.0/10
-
-The article and surrounding debate argue that despite AI advancements, software development remains unsolved due to complex system behaviors, comprehension challenges, and code review limitations.
-
-hackernews · firstSpeaker · Sep 28, 13:52 · [Discussion](https://news.ycombinator.com/item?id=49877988)
-
-**Tags**: `#AI`, `#Software Engineering`, `#LLMs`, `#Developer Productivity`
-
----
+Consider:
+1. Lowering the `ai_score_threshold` in config.json
+2. Adding more diverse information sources
+3. Checking if the AI model is working correctly
