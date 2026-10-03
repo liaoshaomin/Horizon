@@ -5,21 +5,21 @@ date: 2026-10-03
 lang: en
 ---
 
-> From 61 items, 1 important content pieces were selected
+> From 53 items, 1 important content pieces were selected
 
 ---
 
-1. [Cloudflare OHTTP gateway](#item-1) ⭐️ 8.0/10
+1. [Kolibri: A Sovereign Open-Weight Model](#item-1) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ⭐️ 8.0/10
+## [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) ⭐️ 8.0/10
 
-Cloudflare has launched an Oblivious HTTP \(OHTTP\) gateway to enable private client-server interactions by decoupling user IP addresses from request payloads.
+Aleph Alpha has released Kolibri, a sovereign open-weight LLM featuring a transparent technical report that details its training dataset and protocols for reducing hallucinations.
 
-hackernews · est · Oct 3, 03:15 · [Discussion](https://news.ycombinator.com/item?id=49941091)
+hackernews · bastitx · Oct 3, 09:36 · [Discussion](https://news.ycombinator.com/item?id=49942706)
 
-**Tags**: `#Cloudflare`, `#Privacy`, `#Oblivious HTTP`, `#Cybersecurity`, `#Networking`
+**Tags**: `#AI/ML`, `#LLM`, `#Open Source`, `#Artificial Intelligence`
 
 ---
