@@ -5,14 +5,21 @@ date: 2026-10-04
 lang: en
 ---
 
-> Analyzed 54 items, but none met the importance threshold.
+> From 59 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Agents don&\#x27;t need memory, they need documentation](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Agents don&\#x27;t need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory) ⭐️ 8.0/10
+
+The article argues that AI agents perform better when given structured, explicit documentation and context repositories rather than relying on complex persistent memory mechanisms.
+
+hackernews · kmeh · Oct 3, 17:03 · [Discussion](https://news.ycombinator.com/item?id=49945933)
+
+**Tags**: `#AI Agents`, `#LLM`, `#Software Architecture`, `#Context Engineering`
+
+---
