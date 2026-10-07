@@ -5,33 +5,57 @@ date: 2026-10-07
 lang: en
 ---
 
-> From 75 items, 2 important content pieces were selected
+> From 81 items, 4 important content pieces were selected
 
 ---
 
-1. [Nobel Prize in Physics 2026: Francis Halzen](#item-1) ⭐️ 9.0/10
-2. [EmbeddingGemma 2: An open, lightweight multimodal embedding model](#item-2) ⭐️ 8.0/10
+1. [Sharing AI progress in mathematics](#item-1) ⭐️ 10.0/10
+2. [Mistral Large 4](#item-2) ⭐️ 9.0/10
+3. [EmbeddingGemma 2: An open, lightweight multimodal embedding model](#item-3) ⭐️ 8.0/10
+4. [DeepSeek considers doubling latest funding round to up to $15 billion, sources say](#item-4) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Nobel Prize in Physics 2026: Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/) ⭐️ 9.0/10
+## [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) ⭐️ 10.0/10
 
-Francis Halzen is awarded the Nobel Prize in Physics for conceiving the IceCube Neutrino Observatory, a massive South Pole detector designed to capture elusive ghost particles.
+OpenAI has shared research preprints and code demonstrating AI progress in solving complex, long-standing open mathematical conjectures.
 
-hackernews · solarist · Oct 6, 09:48 · [Discussion](https://news.ycombinator.com/item?id=49976265)
+hackernews · OfficialTurkey · Oct 6, 22:17 · [Discussion](https://news.ycombinator.com/item?id=49984923)
 
-**Tags**: `#Physics`, `#Neutrinos`, `#Nobel Prize`, `#IceCube`, `#Science`
+**Tags**: `#Artificial Intelligence`, `#Mathematics`, `#OpenAI`, `#Machine Learning`, `#Theoretical Computer Science`
 
 ---
 
 <a id="item-2"></a>
+## [Mistral Large 4](https://mistral.ai/news/mistral-large-4//) ⭐️ 9.0/10
+
+Mistral AI has announced Mistral Large 4, a major new open-weights language model trained on NVIDIA Grace Blackwell GPUs with strong benchmark performance across vision and reasoning tasks.
+
+hackernews · Philpax · Oct 6, 13:15 · [Discussion](https://news.ycombinator.com/item?id=49977979)
+
+**Tags**: `#AI/ML`, `#LLMs`, `#Mistral AI`, `#Open Weights`, `#Benchmarks`
+
+---
+
+<a id="item-3"></a>
 ## [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) ⭐️ 8.0/10
 
-Google has announced EmbeddingGemma 2, a lightweight, open-source multimodal embedding model supporting both text and vision under an Apache 2.0 license.
+Google has released EmbeddingGemma 2, a lightweight and open-weights multimodal embedding model supporting text and vision tasks.
 
 hackernews · ilreb · Oct 6, 16:03 · [Discussion](https://news.ycombinator.com/item?id=49980487)
 
-**Tags**: `#AI/ML`, `#Embeddings`, `#Multimodal AI`, `#Open Source`, `#Machine Learning`
+**Tags**: `#AI/ML`, `#Embeddings`, `#Multimodal`, `#Open Source`, `#Google`
+
+---
+
+<a id="item-4"></a>
+## [DeepSeek considers doubling latest funding round to up to $15 billion, sources say](https://www.cnbc.com/2026/10/06/deepseek-funding-round.html) ⭐️ 8.0/10
+
+Chinese AI lab DeepSeek is reportedly considering doubling its latest funding round to nearly $15 billion.
+
+rss · CNBC Top News · Oct 6, 12:59
+
+**Tags**: `#Artificial Intelligence`, `#DeepSeek`, `#Venture Capital`, `#AI Industry`
 
 ---
