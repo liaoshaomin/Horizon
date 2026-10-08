@@ -9,29 +9,29 @@ lang: zh
 
 ---
 
-1. [Claude Haiku 5.5](#item-1) ⭐️ 8.0/10
-2. [Margaret Hamilton has died](#item-2) ⭐️ 8.0/10
+1. [Margaret Hamilton has died](#item-1) ⭐️ 9.0/10
+2. [Shipping JPEG XL in Chrome](#item-2) ⭐️ 9.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) ⭐️ 8.0/10
+## [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) ⭐️ 9.0/10
 
-Anthropic has launched Claude Haiku 5.5, introducing variable thinking levels, new context-dependent pricing tiers, and bundled API credits for Claude subscribers.
+Margaret Hamilton, the pioneering computer scientist who led NASA&\#x27;s Apollo flight software team and coined the term &\#x27;software engineering,&\#x27; has passed away.
 
-hackernews · sfkgtbor · 10月7日 18:01 · [社区讨论](https://news.ycombinator.com/item?id=49996437)
+hackernews · muglug · 10月7日 21:16 · [社区讨论](https://news.ycombinator.com/item?id=49998895)
 
-**标签**: `#AI`, `#LLM`, `#Anthropic`, `#Claude`, `#AI Infrastructure`
+**标签**: `#History of Computing`, `#Software Engineering`, `#NASA`, `#Apollo Program`
 
 ---
 
 <a id="item-2"></a>
-## [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) ⭐️ 8.0/10
+## [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) ⭐️ 9.0/10
 
-Margaret Hamilton, the pioneering computer scientist who coined the term &\#x27;software engineering&\#x27; and led the development of NASA&\#x27;s Apollo flight software, has died.
+Google Chrome is officially re-adding support for the JPEG XL image format, bringing modern compression and feature capabilities to the majority web browser.
 
-hackernews · muglug · 10月7日 21:16 · [社区讨论](https://news.ycombinator.com/item?id=49998895)
+hackernews · AshleysBrain · 10月7日 11:25 · [社区讨论](https://news.ycombinator.com/item?id=49991227)
 
-**标签**: `#Computer History`, `#Software Engineering`, `#Apollo Program`, `#Margaret Hamilton`, `#Obituary`
+**标签**: `#Chrome`, `#JPEG XL`, `#Web Standards`, `#Image Compression`, `#Web Development`
 
 ---
