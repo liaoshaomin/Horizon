@@ -5,21 +5,21 @@ date: 2026-10-09
 lang: en
 ---
 
-> From 68 items, 1 important content pieces were selected
+> From 75 items, 1 important content pieces were selected
 
 ---
 
-1. [Whistle: Speech to Text in 16.9 MB](#item-1) ⭐️ 8.0/10
+1. [Deno Is Joining Cloudflare](#item-1) ⭐️ 9.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) ⭐️ 8.0/10
+## [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare) ⭐️ 9.0/10
 
-Whistle is an ultra-lightweight speech-to-text model designed to run local transcription within a tiny 16.9 MB footprint.
+Deno is joining Cloudflare and will sunset its standalone JavaScript runtime in one year unless taken over by the open-source community.
 
-hackernews · gmays · Oct 8, 16:59 · [Discussion](https://news.ycombinator.com/item?id=50008427)
+hackernews · ilreb · Oct 9, 13:03 · [Discussion](https://news.ycombinator.com/item?id=50019911)
 
-**Tags**: `#Speech-to-Text`, `#Machine Learning`, `#Edge Computing`, `#AI`
+**Tags**: `#JavaScript`, `#Deno`, `#Cloudflare`, `#Runtimes`, `#Web Development`
 
 ---
