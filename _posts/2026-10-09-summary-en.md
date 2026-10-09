@@ -5,14 +5,21 @@ date: 2026-10-09
 lang: en
 ---
 
-> Analyzed 68 items, but none met the importance threshold.
+> From 68 items, 1 important content pieces were selected
 
-No significant developments today. This might indicate:
-- A quiet day in your tracked sources
-- The AI score threshold is too high
-- Your information sources need expansion
+---
 
-Consider:
-1. Lowering the `ai_score_threshold` in config.json
-2. Adding more diverse information sources
-3. Checking if the AI model is working correctly
+1. [Whistle: Speech to Text in 16.9 MB](#item-1) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) ⭐️ 8.0/10
+
+Whistle is an ultra-lightweight speech-to-text model designed to run local transcription within a tiny 16.9 MB footprint.
+
+hackernews · gmays · Oct 8, 16:59 · [Discussion](https://news.ycombinator.com/item?id=50008427)
+
+**Tags**: `#Speech-to-Text`, `#Machine Learning`, `#Edge Computing`, `#AI`
+
+---
