@@ -5,14 +5,33 @@ date: 2026-10-12
 lang: zh
 ---
 
-> 已分析 52 条内容，但没有达到重要性阈值的条目。
+> 从 53 条内容中筛选出 2 条重要资讯。
 
-今日暂无重要动态，可能原因：
-- 今天关注的信息源较平静
-- AI 评分阈值设置过高
-- 信息源种类有待扩充
+---
 
-建议：
-1. 在 config.json 中降低 `ai_score_threshold`
-2. 添加更多多样化的信息源
-3. 检查 AI 模型是否正常工作
+1. [Terence Tao: Math 2.0 \[pdf\]](#item-1) ⭐️ 9.0/10
+2. [The gap in shared understanding of LLM capability is widening](#item-2) ⭐️ 8.0/10
+
+---
+
+<a id="item-1"></a>
+## [Terence Tao: Math 2.0 \[pdf\]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf) ⭐️ 9.0/10
+
+Terence Tao explores &\#x27;Math 2.0,&\#x27; detailing how artificial intelligence, formal proof assistants, and automated reasoning are fundamentally altering the landscape of mathematical discovery.
+
+hackernews · Anon84 · 10月11日 13:16 · [社区讨论](https://news.ycombinator.com/item?id=50043026)
+
+**标签**: `#Artificial Intelligence`, `#Mathematics`, `#AI in Science`, `#Formal Verification`, `#Research`
+
+---
+
+<a id="item-2"></a>
+## [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) ⭐️ 8.0/10
+
+Andrej Karpathy highlights the growing disparity in how different groups understand current LLM capabilities, sparking broad discussion on AI adoption and automation.
+
+hackernews · albertzeyer · 10月11日 20:20 · [社区讨论](https://news.ycombinator.com/item?id=50047422)
+
+**标签**: `#Artificial Intelligence`, `#LLMs`, `#Automation`, `#Tech Industry`
+
+---
